@@ -31,23 +31,20 @@
 ## Acerca del proyecto
 
 ### Nombre del proyecto
-**Smart Craft Sales Dolores Hidalgo**
+**Casa Iscali**
 
 ### Justificación del proyecto
 
-<div style="text-align: justify;">
-> El servicio al cliente es lo primordial de un servicio y que mejor manera que pueda acceder a el desde cualquier parte del mundo a cualquier hora del dia o noche.
+> El mejor servicio al cliente que podemos tener, es no tener la necesidad de usar el servicio al cliente.
 
-> En Casa Iscali podemos ver que la cantidad de nuestros clientes han aumentado y la forma en que ellos necesitan ser atendidos necesita un cambio de ahi la necesidad de crear una pagina web como una nueva forma para que nuestros clientes obtengan información rapido y desde la comodidad de su hogar, trabajo o cualquier lugar donde se encuentren. 
+> El servicio al cliente bajo la óptica del Internet de las Cosas se vuelve una actividad esencial, automática, proactiva y constante. El mejor servicio al cliente es aquel que logramos visualizar antes que los clientes noten el problema; y para ello, necesitas modificar tus operaciones y flujos de trabajo.
 
->Dolores hidalgo es una ciudad donde se puede apreciar que le crecimiento de su pobloacion y necesidaddes estan en un punto importante y los poryectos como Casa Iscali necesitan adaptarse a la formas actuales de darse a conocer al publico, la forma de brindar servicios y como mejorar los servicios que otros proyectos(competidores) o lugares ofrecen. Sabemos que en la actulidad las paginas web son un elemento inprecindible cuando de promocionarse y llevar un registro de los clientes se habla. 
-
->La pagina web brindara a nuestros usuarios una forma mas rapida para crear una reservaciones, algo importante de la creacion de la pagina web es para que la persona que esta encargada de Casa Iscali tenga una forma mas sencilla de llevar el registro de reservaciones, citas y pueda publicar promociones, los servicios que ofrecen en Casa Iscali y los eventos que se celebran para mejorar la experiencia de los clientes. Casa Iscali tambien necesita que mas gente la conozca y la pagina web puede hacer que el crecimeitno sea aun mayor del que tiene actualmente.  
-</div>
+> Dolores Hidalgo se encuentra en la zona norte del estado de Guanajuato, pocas ciudades del país pueden decir que viven completamente de la artesanía. El centro de  Dolores Hidalgo, Guanajuato, encontrarás calles repletas de todo tipo de objetos artesanales cerámicos. Además de ser cuna de la Independencia Nacional, Dolores Hidalgo es una población fantástica donde innumerables alfareros y ceramistas han hecho de la cerámica de talavera su forma de vida al trabajarla en diversas formas  y tonos multicolores que engalanan al México popular país con un hondo espíritu folclórico.
+> El principal turista de ocio que llega a la Cuna de la Independencia, es de tipo familiar por el potencial que tenemos en el personaje de José Alfredo Jiménez y la cerámica tipo Talavera, pero una de los grandes incovenientes es que el turista dura en la ciudad de uno a dos días y después se van a otras ciudades como Guanajuato, San Miguel de Allende, San Luis de la Paz. Generalmente, los pequeños negocios de artesanías que comercializan los productos de Talavera contratan a personal femenino para el servicio de atención al cliente, pero una de las grandes inquietudes que tienen los empresarios de los estos comercios es usar la tecnología para atrapar al turista e incrementar sus ventas. 
 
 ### Objetivo del proyecto: 
 
-> Impulsar el incremento de ventas de los pequeños comercios de comercializan Talavera y Cerámica mediante el uso de la tecnología del Internet de las Cosas que ayuden a eficientar la atención al cliente y una experiencia agradable en el comercio.
+> Mejorar la experiencia y los resultados de la asistencia de los clientes a "Casa Iscali", permitiendole tambien a la organizacion crecer como empresa, asi tambien como facilitar la labor de los empleados de la misma.
 
 ### Descripción general del proyecto
 
@@ -58,19 +55,37 @@
 ### Material de uso:
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr>
   <tr>
-    <td>Raspberry Pi 4</td>
+    <td> Placa Arduino UNO</td>
     <td>
-    <img src="https://user-images.githubusercontent.com/36056832/165995675-da53df0d-9c67-46af-94e3-22f30ad2aa4d.png" alt="Raspberry Pi 4" width="100"/>
+    <img src="https://m.media-amazon.com/images/I/71z22cRPeeL.jpg" alt="Placa Arduino UNO" width="100"/>
     </td>
-     <td><ul><li>Raspberry Pi 4 Modelo B 8GB RAM Original Uk.<li>Memoria microSD 32GB Clase 10 A1 con adaptador.<li>Cable microHDMI a HDMI 1.5m.<li>Carcasa con soporte para ventilador.<li>Ventilador 5VDC con tornillos y tuercas.<li>Fuente 5V 3A USB-C con Switch On/Off.<li>Kit de disipadores de calor cobre y aluminio con cinta térmica adherible.</ul></td>
+     <td><ul>
+      <li>Microcontrolador: ATMega328P.
+      <li>Velocidad de reloj: 16 MHz.
+      <li>Voltaje de trabajo: 5V.
+      <li>Voltaje de entrada: 7,5 a 12 voltios.
+      <li>Pinout: 14 pines digitales (6 PWM)  y 6 pines analógicos.
+      <li>1 puerto serie por hardware.
+      <li>Memoria: 32 KB Flash (0,5 para bootloader), 2KB RAM y 1KB Eeprom
+       </ul></td>
     <td>1</td>
   </tr> 
   <tr>
-    <td>ESP32 Cam</td>
+    <td>Sensor de temperatura LM35</td>
     <td>
-    <img src="https://user-images.githubusercontent.com/36056832/165996397-e9527b13-6ad4-4e73-a732-7721e0ffac59.png"  alt="ESP32 Cam" width="100"/>
+    <img src="https://natytec.com.mx/wp-content/uploads/2018/10/lm35dz.jpg"  alt="ESP32 Cam" width="100"/>
     </td>
-    <td><ul><li>Voltaje: 5 V<li>CPU de 32 bits de doble núcleo de baja potencia para procesadores de aplicaciones<li>Frecuencia principal de hasta 240 MHz<li>Potencia de cálculo de hasta 600 DMIPS<li>SRAM integrado de 520 KB<li>PSRAM externo de 4 M<li>Es ideal para interfaces como: UART. SPI. I2C. PWM. ADC. DAC<li>Soporta cámaras OV2640 y OV7670 (flash incorporado)<li>Apoyo imagen WiFi subir<li>Apoyo TF tarjeta</ul></td>
+    <td><ul>
+      <li>Modelo: LM35
+      <li>Voltaje de alimentación: 4V – 30V (5V recomendado)
+      <li>Rango de sensado temperatura: -55℃ hasta +150℃
+      <li>Precisión en el rango de -10°C hasta +85°C: ±0.5°C
+      <li>Pendiente: 10mV/ºC
+      <li>Bajo consumo energético: 60uA
+      <li>No necesita componentes adicionales
+      <li>Pines: +VCC, V salida, GND
+      <li>Baja impedancia de salida
+    </ul></td>
     <td>1</td>
   </tr> 
   <tr>
@@ -100,14 +115,17 @@
     <td>2</td>
   </tr>
   <tr>
-    <td>App de comercio de AR </td>
-    <td><img src="https://user-images.githubusercontent.com/8560750/166763820-c178c82a-4f1f-47fb-9e15-34011bad59f1.jpg" width="100" alt="App de realidad aumentada"/></td>
+    <td>Cables </td>
+    <td><img src="https://leantec.es/wp-content/uploads/2018/02/p_6_8_1_681-40-CABLES-MACHO-HEMBRA-10cm-jumpers-dupont-254-arduino.jpg" width="100" alt="App de realidad aumentada"/></td>
     <td>
       <ul>
-        <li>Dispositivo móvil con sistema operativo Android 8.0 o superior.</li>
-        <li>App de establecimiento.</li>
-        <li>Interactuar con detalles y características de producto.</li>
-      </ul>    
+        <li>Conectores tipo A y B que cumplen con el estándar USB
+        <li>Excelente conductividad eléctrica
+        <li>Aproximadamente 20 cm de largo
+        <li>Ideal para utilizar en en computadoras portátiles debido a su longitud
+        <li>Elaborado en plástico color azul translucido
+        <li>Compatible con cualquier otro periférico o dispositivo USB que tenga los mismos conectores
+        </ul>    
     </td>
     <td>2 </td>
   </tr>
@@ -116,11 +134,12 @@
     <td><img src="https://user-images.githubusercontent.com/8560750/166772317-71c55285-568d-478c-aa4a-080df56c719b.jpg" width="100" alt="ISD1820"/></td>
     <td>
       <ul>
-        <li>Tipo: Módulo grabador de voz y parlante</li>
-        <li>Dimensiones: 42.87mmx 38.55mm x 11.25mm</li>
-        <li>Voltaje de funcionamiento: 3V a 5V DC</li>
-        <li>Altavoz: 8Ω 0.5 W</li>
-        <li>Bocina de 8ohms a 0.5W</li>
+        <li>
+        <li>
+        <li>
+        <li>
+        <li>
+        <li>
       </ul>
     </td>
     <td>1</td>
