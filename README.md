@@ -107,18 +107,6 @@
     <td>1</td>
   </tr> 
   <tr>
-    <td>Lector QR </td>
-    <td><img src="https://user-images.githubusercontent.com/8560750/166768412-b0cddffc-1a08-49cf-a9d5-4d46b3501678.jpg" width="100" alt="Lector de código QR"/> </td>
-    <td>
-      <ul>
-        <li>Dispositivo móvil con sistema operativo Android 8.0 o superior.</li>
-        <li>App para lectura de QR.</li>
-        <li>Observar detalles y características de producto.</li>
-      </ul>
-      </td>
-    <td>2</td>
-  </tr>
-  <tr>
     <td>Cables </td>
     <td><img src="https://leantec.es/wp-content/uploads/2018/02/p_6_8_1_681-40-CABLES-MACHO-HEMBRA-10cm-jumpers-dupont-254-arduino.jpg" width="100" alt="App de realidad aumentada"/></td>
     <td>
@@ -134,8 +122,8 @@
     <td>2 </td>
   </tr>
   <tr>
-    <td>ISD1820 </td>
-    <td><img src="https://user-images.githubusercontent.com/8560750/166772317-71c55285-568d-478c-aa4a-080df56c719b.jpg" width="100" alt="ISD1820"/></td>
+    <td>Modulo wifi </td>
+    <td><img src="" width="100" alt="ISD1820"/></td>
     <td>
       <ul>
         <li>
