@@ -35,12 +35,15 @@
 
 ### Justificación del proyecto
 
-> El mejor servicio al cliente que podemos tener, es no tener la necesidad de usar el servicio al cliente.
+<div style="text-align: justify;">
+> El servicio al cliente es lo primordial de un servicio y que mejor manera que pueda acceder a el desde cualquier parte del mundo a cualquier hora del dia o noche.
 
-> El servicio al cliente bajo la óptica del Internet de las Cosas se vuelve una actividad esencial, automática, proactiva y constante. El mejor servicio al cliente es aquel que logramos visualizar antes que los clientes noten el problema; y para ello, necesitas modificar tus operaciones y flujos de trabajo.
+> En Casa Iscali podemos ver que la cantidad de nuestros clientes han aumentado y la forma en que ellos necesitan ser atendidos necesita un cambio de ahi la necesidad de crear una pagina web como una nueva forma para que nuestros clientes obtengan información rapido y desde la comodidad de su hogar, trabajo o cualquier lugar donde se encuentren. 
 
-> Dolores Hidalgo se encuentra en la zona norte del estado de Guanajuato, pocas ciudades del país pueden decir que viven completamente de la artesanía. El centro de  Dolores Hidalgo, Guanajuato, encontrarás calles repletas de todo tipo de objetos artesanales cerámicos. Además de ser cuna de la Independencia Nacional, Dolores Hidalgo es una población fantástica donde innumerables alfareros y ceramistas han hecho de la cerámica de talavera su forma de vida al trabajarla en diversas formas  y tonos multicolores que engalanan al México popular país con un hondo espíritu folclórico.
-> El principal turista de ocio que llega a la Cuna de la Independencia, es de tipo familiar por el potencial que tenemos en el personaje de José Alfredo Jiménez y la cerámica tipo Talavera, pero una de los grandes incovenientes es que el turista dura en la ciudad de uno a dos días y después se van a otras ciudades como Guanajuato, San Miguel de Allende, San Luis de la Paz. Generalmente, los pequeños negocios de artesanías que comercializan los productos de Talavera contratan a personal femenino para el servicio de atención al cliente, pero una de las grandes inquietudes que tienen los empresarios de los estos comercios es usar la tecnología para atrapar al turista e incrementar sus ventas. 
+>Dolores hidalgo es una ciudad donde se puede apreciar que le crecimiento de su pobloacion y necesidaddes estan en un punto importante y los poryectos como Casa Iscali necesitan adaptarse a la formas actuales de darse a conocer al publico, la forma de brindar servicios y como mejorar los servicios que otros proyectos(competidores) o lugares ofrecen. Sabemos que en la actulidad las paginas web son un elemento inprecindible cuando de promocionarse y llevar un registro de los clientes se habla. 
+
+>La pagina web brindara a nuestros usuarios una forma mas rapida para crear una reservaciones, algo importante de la creacion de la pagina web es para que la persona que esta encargada de Casa Iscali tenga una forma mas sencilla de llevar el registro de reservaciones, citas y pueda publicar promociones, los servicios que ofrecen en Casa Iscali y los eventos que se celebran para mejorar la experiencia de los clientes. Casa Iscali tambien necesita que mas gente la conozca y la pagina web puede hacer que el crecimeitno sea aun mayor del que tiene actualmente.  
+</div>
 
 ### Objetivo del proyecto: 
 
