@@ -126,12 +126,22 @@
     <td><img src="https://rdteam.mx/wp-content/uploads/2020/11/762365-mla31063767605_062019-o-233358ad17b62cb14815638265858625-640-0.jpg" width="100" alt="Modulo WiFi"/></td>
     <td>
       <ul>
-        <li>
-        <li>
-        <li>
-        <li>
-        <li>
-        <li>
+        <li>Procesador de 32 bit de bajo consumo
+        <li>Velocidad de 80MHz (máximo de 160MHz)
+        <li>32 KiB RAM instrucciones, 32 KiB RAM cache
+        <li>80 KiB RAM para datos de usuario
+        <li>Memoria flash externa hasta 16MiB
+        <li>Pila de TCP/IP integrada
+        <li>Wifi 802.11 b/g/n 2.4GHz (soporta WPA/WPA2)
+        <li>Certificado por FCC, CE, TELEC, WiFi Alliance y SRRC
+        <li>16 pins GPIO
+        <li>PWM en todos los pines (10 bits)
+        <li>Conversor analógico digital de 10 bits
+        <li>UART (2x TX y 1x RX)
+        <li>SPI, I2C, I2S
+        <li>Voltaje de operación 3.0 a 3.6V
+        <li>Consumo medio 80mA
+        <li>Modo consumo stand-by (1mW) y deep sleep (1uA).
       </ul>
     </td>
     <td>1</td>
