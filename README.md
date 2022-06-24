@@ -37,29 +37,23 @@
 
 <div style="text-align: justify;">
 
-> El servicio al cliente es lo primordial de un servicio y que mejor manera que pueda acceder a el desde cualquier parte del mundo a cualquier hora del día o noche.
+> El servicio al cliente es lo primordial de un servicio y que mejor manera que pueda acceder a el desde cualquier parte del mundo a cualquier hora del dia o noche.
 
-> En Casa Iscali podemos ver que la cantidad de nuestros clientes han aumentado y la forma en que ellos necesitan ser atendidos necesita un cambio de ahí la necesidad de crear una página web como una nueva forma para que nuestros clientes obtengan información rápido y desde la comodidad de su hogar, trabajo o cualquier lugar donde se encuentren. 
+> En Casa Iscali podemos ver que la cantidad de nuestros clientes han aumentado y la forma en que ellos necesitan ser atendidos necesita un cambio de ahi la necesidad de crear una pagina web como una nueva forma para que nuestros clientes obtengan información rapido y desde la comodidad de su hogar, trabajo o cualquier lugar donde se encuentren. 
 
->Dolores hidalgo es una ciudad donde se puede apreciar que le crecimiento de su población y necesidades están en un punto importante y los proyectos como Casa Iscali necesitan adaptarse a las formas actuales de darse a conocer al público, la forma de brindar servicios y como mejorar los servicios que otros proyectos(competidores) o lugares ofrecen. Sabemos que en la actualidad las páginas web son un elemento imprescindible cuando de promocionarse y llevar un registro de los clientes se habla. 
+>Dolores hidalgo es una ciudad donde se puede apreciar que le crecimiento de su pobloacion y necesidaddes estan en un punto importante y los poryectos como Casa Iscali necesitan adaptarse a la formas actuales de darse a conocer al publico, la forma de brindar servicios y como mejorar los servicios que otros proyectos(competidores) o lugares ofrecen. Sabemos que en la actulidad las paginas web son un elemento inprecindible cuando de promocionarse y llevar un registro de los clientes se habla. 
 
->La página web brindara a nuestros usuarios una forma más rápida para crear unas reservaciones, algo importante de la creación de la página web es para que la persona que está encargada de Casa Iscali tenga una forma más sencilla de llevar el registro de reservaciones, citas y pueda publicar promociones, los servicios que ofrecen en Casa Iscali y los eventos que se celebran para mejorar la experiencia de los clientes. Casa Iscali también necesita que más gente la conozca y la página web puede hacer que el crecimiento sea aún mayor del que tiene actualmente.  
-
+>La pagina web brindara a nuestros usuarios una forma mas rapida para crear una reservaciones, algo importante de la creacion de la pagina web es para que la persona que esta encargada de Casa Iscali tenga una forma mas sencilla de llevar el registro de reservaciones, citas y pueda publicar promociones, los servicios que ofrecen en Casa Iscali y los eventos que se celebran para mejorar la experiencia de los clientes. Casa Iscali tambien necesita que mas gente la conozca y la pagina web puede hacer que el crecimeitno sea aun mayor del que tiene actualmente.  
 </div>
 
 ### Objetivo del proyecto: 
-<div div style="text-align: justify;"> 
 
-> Crear una pagina web para mejorar la experiencia y los resultados de la asistencia de los clientes a "Casa Iscali", mostrando eventos, promociones, los servicios que se ofrecen y productos, permitiendole tambien al proyecto crecer como empresa, asi tambien como facilitar la labor de los administradores de Casa Iscali. Sabiendo que los clientes ahora se rigen mucho por lo que encuntran en Internet la creacion de la pagina web intenta dar un salto para la administracion de reservaciones(citas) con los profesionales que conforman Casa Iscali y dar a conocer información importante de Casa Iscali. Tambien permitira vender mas productos por ende obtener mas ganancias y obtener recursos para hacer crecer el proyecto. 
-
-</div>
+> Crear una pagina web para mejorar la experiencia y los resultados de la asistencia de los clientes de "Casa Iscali", mostrando eventos, promociones, los servicios que se ofrecen y productos, permitiendole tambien al proyecto crecer como empresa, asi tambien como facilitar la labor de los administradores de Casa Iscali. Sabiendo que los clientes ahora se rigen mucho por lo que encuntran en Internet la creacion de la pagina web intenta dar un salto para la administracion de reservaciones(citas) con los prefesionales que conforman Casa Iscali. 
 
 ### Descripción general del proyecto
-<div style="text-align: justify;">
 
 > Se creará un circuito que permitirá medir la temperatura en la sala de masajes para tener un control de la misma y que el cliente tenga la mejor experiencia, buscando tambine optimiazar funcionamiento de establecimiento.Ademas se creará una página web, el la cual se explicara sobre el establecimiento y sus funciones, es decir; sala de masajes y una consultoría de psicología, asi mismo, en la página web se podrán hacer reservaciones(citas) para la consultoría y los masajes, se podrá ver un calendario donde se verán las reservaciones y poder seleccionar el día que esté disponible o sea más cómodo asistir. Además, se crearán secciones para mostrar el trabajo que han realizado estos profesionales, su trayectoria e inicios y como último requisito se creara una sección donde se mostrara el trabajo de un diseñador digital, pintor y profesor de arte que imparte clases los fines de semana. Se añadirán las diferentes formas de contactar a estos profesionales.
 
-</div>
 
 
 ### Material de uso:
@@ -129,7 +123,7 @@
   </tr>
   <tr>
     <td>Modulo wifi </td>
-    <td><img src="" width="100" alt="ISD1820"/></td>
+    <td><img src="https://rdteam.mx/wp-content/uploads/2020/11/762365-mla31063767605_062019-o-233358ad17b62cb14815638265858625-640-0.jpg" width="100" alt="Modulo WiFi"/></td>
     <td>
       <ul>
         <li>
@@ -160,7 +154,7 @@
 
 
 ### Prototipo
-
+![Captura de pantalla 2022-06-23 222828](https://user-images.githubusercontent.com/97042355/175456470-01a2394a-4d79-475e-8c9b-7b4d02d2bfe8.png)
 
 <!-- Construido con -->
 
@@ -198,9 +192,5 @@ Licencia.
 Contacto.
 
 ## Participantes
-* [Gerardo Reyna Ibarra]()
-* [Anastasio Rodríguez García]()
-* [Gabriel Barrón Rodríguez]()
-
-[contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+Pablo Uriel Rosas Vargas
+Christopher Ivan Garcia Avila
