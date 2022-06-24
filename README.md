@@ -1,5 +1,4 @@
 # Casa Iscali
-[![Contribuidores][contribuidores-shield]][contributors-url]
 
 ## contenido
 <details>
@@ -202,5 +201,7 @@ Licencia.
 Contacto.
 
 ## Participantes
-Pablo Uriel Rosas Vargas
-Christopher Ivan Garcia Avila
+<ul>
+  <li>Pablo Uriel Rosas Vargas
+  <li>Christopher Ivan Garcia Avila
+</ul>
