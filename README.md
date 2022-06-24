@@ -151,12 +151,14 @@
 #### Requerimientos
 |No.  |Requerimiento  |
 |---  |-------------  |
-| 1   |El sistema deberá permitir dar la bienvenida al cliente o visitante a través de lectura de rostro, si la persona es un cliente mediante un Display y/o un repetidor de Voz dará la bienvenida. A su vez, el empleado recibirá una notificación a su dispositivo móvil para su atención.               |
-| 2   |Mediante lectura de código QR a través de dispositivo móvil la persona podrá observar la descripción del producto. |
-| 3   |Mediante realidad aumentada a través de dispositivo móvil el cliente o turista podrá interactuar con las características y uso del producto.|
-| 4   |La persona podrá solicitar la atención del empleado a través de su dispositivo móvil ya sea para muestra del producto o venta del mismo.|
-| 5   |La persona podrá responder la encuesta de salida si fue agradable el servicio al cliente, etc.|
-| 6   |El gerente o dueño del negocio podrá ver estadísticas como: Número de visitantes que llegaron al establecimiento. Número de visitantes que realizaron compra. Encuesta de satisfacción de salida.  |
+| 1   |Eventos: La aplicación web tendra una zona que sera llamada  eventos donde se podran revisar las diferentes planeaciones de Casa Iscali donde se veran los eventos con la fecha y el servicio que se ofrece en el evento. |
+| 2   |Servicios: Se tendra de igual forma una zona donde se escribira la información de los servicios que se ofrecen en Casa Iscali enfocado en los masajes donde se podra obtener informacion de su costo, días disponibles para hacer cita, etc.|
+| 3   |Historia: Se creara una seccíón donde las personas podran revisar la trayectoria de los profesionales en Casa Iscali, donde se mostraran sus inicios como organización y diefrentes certificaciones, titulos y experiencia que han obtenido a lo largo de la existencia de Casa Iscali.|
+| 4   |Zona Psicologia: Casa Iscali cuenta con varios profesionales que desempeñan diferentes tareas una ellas es psicologi, se quiere crear un apartado exclusivo para esto donde se mostrara informacion de servicios, tipo de ayuda que puede ofrecer y costos.|
+| 5   |Productos: En Casa Iscali se ofrecen diferentes productos para los tratamientos terapeuticos que son propios de los masajes, se quiere crear una apartado donde se muestron los productos que se venden en Casa Iscali como cremas, pomadas, cafe, etc.|
+| 6   |Promociones: Se quiere un apartado donde se estaran dando información de las promociones que Casa Iscali puede ofrecer por ejemplo por día del niño, día de la madre, etc.|
+| 7   |Apartados extra: Se creara un partado donde se mostrara información de un diseñador digital, que tambien tiene una cerigrafia, tambien se mostrara información de los costos, paquetes que se ofrecen, etc. |
+| 8   |Sensor de Temperatura: Se creara un circuito con Arduino que medira la temperatura de la sala de masajes donde se este guardando esta informacion en una base de datos el circuito busca poder manipular la temperatura del lugar aunque se empezara con solo mostrarla en la pantalla LCD. |
 
 #### Diagrama inicial
 ![image](https://user-images.githubusercontent.com/8560750/166749650-89fba768-4bbc-45c4-93d3-df9e5d08ad4c.png)
@@ -170,7 +172,11 @@
 
 <!-- Construido con -->
 ### Construido con
-Construido con.
+Python 3.10.2
+Visual Studio Code 
+Django
+Arduino Uno 
+Arduino IDE 
 
 <!-- Iniciando -->
 ## Iniciando
@@ -198,10 +204,16 @@ Contribucion.
 Licencia.
 
 ## Contacto
-Contacto.
+<ul>
+  <li>Nombre: Pablo Uriel Rosas Vargas
+  <li>Correo: urielvargas127@gmail.com
+  <li>Num. Celular: 418 139 7629 
+</ul>
 
 ## Participantes
-<ul>
-  <li>Pablo Uriel Rosas Vargas
-  <li>Christopher Ivan Garcia Avila
-</ul>
+* [Pablo Uriel Rosas Vargas]()
+* [Gabriel Barrón Rodríguez]()
+* [Christopher Ivan Garcia Avila]
+[contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+
