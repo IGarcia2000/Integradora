@@ -23,6 +23,7 @@
     <li><a href="#licencia">licencia</a></li>
     <li><a href="#contacto">Contacto</a></li>
     <li><a href="#participantes">Participantes</a></li>
+    <li><a href="#referencias">Referencias</a></li>
   </ol>
 </details>
 
@@ -218,8 +219,8 @@ Licencia.
 [contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 
-##Referencias
-###Imagenes
+## Referencias
+### Imagenes
 <ul>
 <li>Amazon. (s.f.). Amazon. Obtenido de Google: https://m.media-amazon.com/images/I/71z22cRPeeL.jpg
 <li>Github. (s.f.). Github.com. Obtenido de Google: https://user-images.githubusercontent.com/8560750/166756741-813b8a4a-d952-4e20-aa89-b7699ffeb30d.jpg
