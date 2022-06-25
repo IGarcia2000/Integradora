@@ -162,7 +162,7 @@
 | 8   |Sensor de Temperatura: Se creara un circuito con Arduino que medira la temperatura de la sala de masajes donde se este guardando esta informacion en una base de datos el circuito busca poder manipular la temperatura del lugar aunque se empezara con solo mostrarla en la pantalla LCD. |
 
 #### Diagrama inicial
-![image](https://user-images.githubusercontent.com/8560750/166749650-89fba768-4bbc-45c4-93d3-df9e5d08ad4c.png)
+![image](https://user-images.githubusercontent.com/97042355/175753575-91ad17fe-b591-4862-919d-2d0b193e136d.png)
 
 
 ### Prototipo
