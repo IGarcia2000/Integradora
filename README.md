@@ -218,3 +218,16 @@ Licencia.
 [contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 
+##Referencias
+###Imagenes
+<ul>
+<li>Amazon. (s.f.). Amazon. Obtenido de Google: https://m.media-amazon.com/images/I/71z22cRPeeL.jpg
+<li>Github. (s.f.). Github.com. Obtenido de Google: https://user-images.githubusercontent.com/8560750/166756741-813b8a4a-d952-4e20-aa89-b7699ffeb30d.jpg
+<li>Leantec. (s.f.). leantec.com. Obtenido de Google: https://leantec.es/wp-content/uploads/2018/02/p_6_8_1_681-40-CABLES-MACHO-HEMBRA-10cm-jumpers-dupont-254-arduino.jpg
+<li>ratytec. (s.f.). ratytec.com. Obtenido de Google: https://natytec.com.mx/wp-content/uploads/2018/10/lm35dz.jpg
+<li>rdteam. (s.f.). rdteam.mx. Obtenido de Google: https://rdteam.mx/wp-content/uploads/2020/11/762365-mla31063767605_062019-o-233358ad17b62cb14815638265858625-640-0.jpg
+</ul>
+
+
+
+
