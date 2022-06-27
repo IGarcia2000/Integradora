@@ -37,22 +37,22 @@
 
 <div style="text-align: justify;">
 
-> El servicio al cliente es lo primordial de un servicio y que mejor manera que pueda acceder a el desde cualquier parte del mundo a cualquier hora del dia o noche.
+> El servicio al cliente es lo primordial de un servicio y que mejor manera que pueda acceder a él desde cualquier parte del mundo a cualquier hora del día o noche.
 
-> En Casa Iscali podemos ver que la cantidad de nuestros clientes han aumentado y la forma en que ellos necesitan ser atendidos necesita un cambio de ahi la necesidad de crear una pagina web como una nueva forma para que nuestros clientes obtengan información rapido y desde la comodidad de su hogar, trabajo o cualquier lugar donde se encuentren. 
+> En Casa Iscali podemos ver que la cantidad de nuestros clientes han aumentado y la forma en que ellos necesitan ser atendidos necesita un cambio de ahí la necesidad de crear una página web como una nueva forma para que nuestros clientes obtengan información rápido y desde la comodidad de su hogar, trabajo o cualquier lugar donde se encuentren. 
 
->Dolores hidalgo es una ciudad donde se puede apreciar que le crecimiento de su pobloacion y necesidaddes estan en un punto importante y los poryectos como Casa Iscali necesitan adaptarse a la formas actuales de darse a conocer al publico, la forma de brindar servicios y como mejorar los servicios que otros proyectos(competidores) o lugares ofrecen. Sabemos que en la actulidad las paginas web son un elemento inprecindible cuando de promocionarse y llevar un registro de los clientes se habla. 
+> Dolores hidalgo es una ciudad donde se puede apreciar que le crecimiento de su población y sus necesidades están en un punto importante y los proyectos como Casa Iscali necesitan adaptarse a las formas actuales de darse a conocer al público, la forma de brindar servicios y como mejorar los servicios que otros proyectos(competidores) o lugares ofrecen. Sabemos que en la actualidad las páginas web son un elemento imprescindible cuando de promocionarse y llevar un registro de los clientes se habla. 
 
->La pagina web brindara a nuestros usuarios una forma mas rapida para crear una reservaciones, algo importante de la creacion de la pagina web es para que la persona que esta encargada de Casa Iscali tenga una forma mas sencilla de llevar el registro de reservaciones, citas y pueda publicar promociones, los servicios que ofrecen en Casa Iscali y los eventos que se celebran para mejorar la experiencia de los clientes. Casa Iscali tambien necesita que mas gente la conozca y la pagina web puede hacer que el crecimeitno sea aun mayor del que tiene actualmente.  
+> La página web brindara a nuestros usuarios una forma más rápida para crear unas reservaciones, algo importante de la creación de la página web es para que la persona que está encargada de Casa Iscali tenga una forma más sencilla de llevar el registro de reservaciones, citas y pueda publicar promociones, los servicios que ofrecen en Casa Iscali y los eventos que se celebran para mejorar la experiencia de los clientes. Casa Iscali también necesita que más gente la conozca y la página web puede hacer que el crecimiento sea aún mayor del que tiene actualmente.    
 </div>
 
 ### Objetivo del proyecto: 
 
-> Crear una pagina web para mejorar la experiencia y los resultados de la asistencia de los clientes de "Casa Iscali", mostrando eventos, promociones, los servicios que se ofrecen y productos, permitiendole tambien al proyecto crecer como empresa, asi tambien como facilitar la labor de los administradores de Casa Iscali. Sabiendo que los clientes ahora se rigen mucho por lo que encuntran en Internet la creacion de la pagina web intenta dar un salto para la administracion de reservaciones(citas) con los prefesionales que conforman Casa Iscali. 
+> Crear una página web para mejorar la experiencia y los resultados de la asistencia de los clientes de "Casa Iscali", mostrando eventos, promociones, los servicios que se ofrecen y productos, permitiéndole también al proyecto crecer como empresa, así también como facilitar la labor de los administradores de Casa Iscali. Sabiendo que los clientes ahora se rigen mucho por lo que encuentran en Internet la creación de la página web intenta dar un salto para la administración de reservaciones(citas) con los profesionales que conforman Casa Iscali.  
 
 ### Descripción general del proyecto
 
-> Se creará un circuito que permitirá medir la temperatura en la sala de masajes para tener un control de la misma y que el cliente tenga la mejor experiencia, buscando tambine optimiazar funcionamiento de establecimiento.Ademas se creará una página web, el la cual se explicara sobre el establecimiento y sus funciones, es decir; sala de masajes y una consultoría de psicología, asi mismo, en la página web se podrán hacer reservaciones(citas) para la consultoría y los masajes, se podrá ver un calendario donde se verán las reservaciones y poder seleccionar el día que esté disponible o sea más cómodo asistir. Además, se crearán secciones para mostrar el trabajo que han realizado estos profesionales, su trayectoria e inicios y como último requisito se creara una sección donde se mostrara el trabajo de un diseñador digital, pintor y profesor de arte que imparte clases los fines de semana. Se añadirán las diferentes formas de contactar a estos profesionales.
+> Se creará un circuito que permitirá medir la temperatura en la sala de masajes para tener un control de la misma y que el cliente tenga la mejor experiencia, buscando también optimizar funcionamiento de establecimiento. Además, se creará una página web, en la cual se explicará sobre el establecimiento y sus funciones, es decir; sala de masajes y una consultoría de psicología, así mismo, en la página web se podrán hacer reservaciones(citas) para la consultoría y los masajes, se podrá ver un calendario donde se verán las reservaciones y poder seleccionar el día que esté disponible o sea más cómodo asistir. Además, se crearán secciones para mostrar el trabajo que han realizado estos profesionales, su trayectoria e inicios y como último requisito se creara una sección donde se mostrara el trabajo de un diseñador digital, pintor y profesor de arte que imparte clases los fines de semana. Se añadirán las diferentes formas de contactar a estos profesionales. 
 
 
 
@@ -152,14 +152,14 @@
 #### Requerimientos
 |No.  |Requerimiento  |
 |---  |-------------  |
-| 1   |Eventos: La aplicación web tendra una zona que sera llamada  eventos donde se podran revisar las diferentes planeaciones de Casa Iscali donde se veran los eventos con la fecha y el servicio que se ofrece en el evento. |
-| 2   |Servicios: Se tendra de igual forma una zona donde se escribira la información de los servicios que se ofrecen en Casa Iscali enfocado en los masajes donde se podra obtener informacion de su costo, días disponibles para hacer cita, etc.|
-| 3   |Historia: Se creara una seccíón donde las personas podran revisar la trayectoria de los profesionales en Casa Iscali, donde se mostraran sus inicios como organización y diefrentes certificaciones, titulos y experiencia que han obtenido a lo largo de la existencia de Casa Iscali.|
-| 4   |Zona Psicologia: Casa Iscali cuenta con varios profesionales que desempeñan diferentes tareas una ellas es psicologi, se quiere crear un apartado exclusivo para esto donde se mostrara informacion de servicios, tipo de ayuda que puede ofrecer y costos.|
-| 5   |Productos: En Casa Iscali se ofrecen diferentes productos para los tratamientos terapeuticos que son propios de los masajes, se quiere crear una apartado donde se muestron los productos que se venden en Casa Iscali como cremas, pomadas, cafe, etc.|
-| 6   |Promociones: Se quiere un apartado donde se estaran dando información de las promociones que Casa Iscali puede ofrecer por ejemplo por día del niño, día de la madre, etc.|
-| 7   |Apartados extra: Se creara un partado donde se mostrara información de un diseñador digital, que tambien tiene una cerigrafia, tambien se mostrara información de los costos, paquetes que se ofrecen, etc. |
-| 8   |Sensor de Temperatura: Se creara un circuito con Arduino que medira la temperatura de la sala de masajes donde se este guardando esta informacion en una base de datos el circuito busca poder manipular la temperatura del lugar aunque se empezara con solo mostrarla en la pantalla LCD. |
+| 1   |Eventos: La aplicación web tendrá una zona que será llamada eventos donde se podrán revisar las diferentes planeaciones de Casa Iscali donde se verán los eventos con la fecha y el servicio que se ofrece en el evento. |
+| 2   |Servicios: Se tendrá de igual forma una zona donde se escribirá la información de los servicios que se ofrecen en Casa Iscali enfocado en los masajes donde se podrá obtener información de su costo, días disponibles para hacer cita, etc.|
+| 3   |Historia: Se creará una sección donde las personas podrán revisar la trayectoria de los profesionales en Casa Iscali, donde se mostrarán sus inicios como organización y diferentes certificaciones, títulos y experiencia que han obtenido a lo largo de la existencia de Casa Iscali.|
+| 4   |Zona Psicología: Casa Iscali cuenta con varios profesionales que desempeñan diferentes tareas una ellas es psicología, se quiere crear un apartado exclusivo para esto donde se mostrara información de servicios, tipo de ayuda que puede ofrecer y costos.|
+| 5   |Productos: En Casa Iscali se ofrecen diferentes productos para los tratamientos terapéuticos que son propios de los masajes, se quiere crear un apartado donde se muestran los productos que se venden en Casa Iscali como cremas, pomadas, café, etc.|
+| 6   |Promociones: Se quiere un apartado donde se estarán dando información de las promociones que Casa Iscali puede ofrecer por ejemplo por día del niño, día de la madre, etc.|
+| 7   |Apartados extra: Se creará un apartado donde se mostrará información de un diseñador digital, que también tiene una serigrafia, también se mostrara información de los costos, paquetes que se ofrecen, etc. |
+| 8   |Sensor de Temperatura: Se creará un circuito con Arduino que medirá la temperatura de la sala de masajes donde se esté guardando esta información en una base de datos el circuito busca poder manipular la temperatura del lugar, aunque se empezará con solo mostrarla en la pantalla LCD. |
 
 #### Diagrama inicial
 ![image](https://user-images.githubusercontent.com/97042355/175753575-91ad17fe-b591-4862-919d-2d0b193e136d.png)
@@ -173,11 +173,14 @@
 
 <!-- Construido con -->
 ### Construido con
-Python 3.10.2
-Visual Studio Code 
-Django
-Arduino Uno 
-Arduino IDE 
+
+<ul>
+  <li> Python 3.10.2
+  <li> Visual Studio Code
+  <li> Django 
+  <li> Arduino Uno
+  <li> Arduino IDE
+</ul>
 
 <!-- Iniciando -->
 ## Iniciando
