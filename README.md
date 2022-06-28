@@ -48,7 +48,7 @@
 
 ### Objetivo del proyecto: 
 
-> Crear una página web para mejorar la experiencia y los resultados de la asistencia de los clientes de "Casa Iscali", mostrando eventos, promociones, los servicios que se ofrecen y productos, permitiéndole también al proyecto crecer como empresa, así también como facilitar la labor de los administradores de Casa Iscali. Sabiendo que los clientes ahora se rigen mucho por lo que encuentran en Internet la creación de la página web intenta dar un salto para la administración de reservaciones(citas) con los profesionales que conforman Casa Iscali.  
+> Crear una página web para mejorar la experiencia y los resultados de la asistencia de los clientes de "Casa Iscali", mostrando eventos, promociones, los servicios que se ofrecen y productos, permitiéndole también al proyecto crecer como empresa, así también como facilitar la labor de los administradores de Casa Iscali. Buscando el incremento en la venta de los productos y aumento de los clientes actuales. Sabiendo que los clientes ahora se rigen mucho por lo que encuentran en Internet la creación de la página web intenta dar un salto para la administración de reservaciones(citas) con los profesionales que conforman Casa Iscali.  
 
 ### Descripción general del proyecto
 
