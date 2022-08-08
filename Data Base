@@ -1,0 +1,38 @@
+Create database casaiscali;
+
+use casaiscali;
+
+CREATE TABLE Reservaciones (
+  `idReservaciones` INT NOT NULL,
+  `fechaReservaciones` VARCHAR(45) NULL,
+  `numHabitacion` SMALLINT NULL,
+  PRIMARY KEY (`idReservaciones`))
+ENGINE = InnoDB;
+
+CREATE TABLE Usuario (
+  `idCliente` INT NOT NULL,
+  `nusuario` VARCHAR(45) NULL,
+  `password` VARCHAR(45) NOT NULL,
+  `nombre` VARCHAR(45) NULL,
+  `apellido` VARCHAR(45) NULL,
+  `idReservacion` INT NULL,
+  `email` VARCHAR(45) NULL,
+  PRIMARY KEY (`idCliente`),
+  UNIQUE INDEX `idReservacion_UNIQUE` (`idReservacion` ASC) VISIBLE,
+  UNIQUE INDEX `nusuario_UNIQUE` (`nusuario` ASC) VISIBLE,
+  UNIQUE INDEX `password_UNIQUE` (`password` ASC) VISIBLE,
+  UNIQUE INDEX `email_UNIQUE` (`email` ASC) VISIBLE,
+  CONSTRAINT `idReservaciones`
+    FOREIGN KEY (`idReservacion`)
+    REFERENCES `casaiscali`.`Reservaciones` (`idReservaciones`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+CREATE TABLE Productos (
+  `idProductos` INT NOT NULL,
+  `nombreP` VARCHAR(45) NOT NULL,
+  `precio` VARCHAR(45) NOT NULL,
+  `descripcion` TEXT NULL,
+  PRIMARY KEY (`idProductos`))
+ENGINE = InnoDB;
