@@ -176,7 +176,7 @@
 ### Construido con
 
 <ul>
-  <li> Python 3.10.2
+  <li> Python 3.10.2 Link video YouTube: https://www.youtube.com/watch?v=HdO_fU3OA14
   <li> Visual Studio Code
   <li> Django 
   <li> Arduino Uno
