@@ -160,8 +160,7 @@
 | 6   |Promociones: Se quiere un apartado donde se estarán dando información de las promociones que Casa Iscali puede ofrecer por ejemplo por día del niño, día de la madre, etc.|
 | 7   |Apartados extra: Se creará un apartado donde se mostrará información de un diseñador digital, que también tiene lazos una serigrafia, también se mostrara información de los costos, paquetes que se ofrecen, etc. |
 | 8   |Sensor de Temperatura: Se creará un circuito con Arduino que medirá la temperatura de la sala de masajes donde se esté guardando esta información en una base de datos el circuito buscara en un futuro manipular la temperatura del lugar, aunque se empezará con solo mostrarla en la pantalla LCD. |
-| 9   |Manejo de sesiones: Se desarrollara una parte para el manejo de sesiones donde los usarios puede crear, iniciar, cerrar, eliminar y actulizar su información de 
-de usuario para el manejo de sesiones. |
+| 9   |Manejo de sesiones: Se desarrollara una parte para el manejo de sesiones donde los usarios puede crear, iniciar, cerrar, eliminar y actulizar su información de usuario para el manejo de sesiones. |7
 
 #### Diagrama inicial
 ![image](https://user-images.githubusercontent.com/97042355/175753575-91ad17fe-b591-4862-919d-2d0b193e136d.png)
