@@ -156,10 +156,12 @@
 | 2   |Servicios: Se tendrá de igual forma una zona donde se escribirá la información de los servicios que se ofrecen en Casa Iscali enfocado en los masajes donde se podrá obtener información de su costo, días disponibles para hacer cita, etc.|
 | 3   |Historia: Se creará una sección donde las personas podrán revisar la trayectoria de los profesionales en Casa Iscali, donde se mostrarán sus inicios como organización y diferentes certificaciones, títulos y experiencia que han obtenido a lo largo de la existencia de Casa Iscali.|
 | 4   |Zona Psicología: Casa Iscali cuenta con varios profesionales que desempeñan diferentes tareas una ellas es psicología, se quiere crear un apartado exclusivo para esto donde se mostrara información de servicios, tipo de ayuda que puede ofrecer y costos.|
-| 5   |Productos: En Casa Iscali se ofrecen diferentes productos para los tratamientos terapéuticos que son propios de los masajes, se quiere crear un apartado donde se muestran los productos que se venden en Casa Iscali como cremas, pomadas, café, etc.|
+| 5   |Productos: En Casa Iscali se ofrecen diferentes productos para los tratamientos terapéuticos que son propios de los masajes, se quiere crear un apartado donde se muestran los productos que se venden en Casa Iscali como cremas, pomadas, café, etc. Se creara una parte donde se podran eliminar, agregar y actualizar la información de los productos y seran almacenados en una tabla de la base de datos. |
 | 6   |Promociones: Se quiere un apartado donde se estarán dando información de las promociones que Casa Iscali puede ofrecer por ejemplo por día del niño, día de la madre, etc.|
-| 7   |Apartados extra: Se creará un apartado donde se mostrará información de un diseñador digital, que también tiene una serigrafia, también se mostrara información de los costos, paquetes que se ofrecen, etc. |
-| 8   |Sensor de Temperatura: Se creará un circuito con Arduino que medirá la temperatura de la sala de masajes donde se esté guardando esta información en una base de datos el circuito busca poder manipular la temperatura del lugar, aunque se empezará con solo mostrarla en la pantalla LCD. |
+| 7   |Apartados extra: Se creará un apartado donde se mostrará información de un diseñador digital, que también tiene lazos una serigrafia, también se mostrara información de los costos, paquetes que se ofrecen, etc. |
+| 8   |Sensor de Temperatura: Se creará un circuito con Arduino que medirá la temperatura de la sala de masajes donde se esté guardando esta información en una base de datos el circuito buscara en un futuro manipular la temperatura del lugar, aunque se empezará con solo mostrarla en la pantalla LCD. |
+| 9   |Manejo de sesiones: Se desarrollara una parte para el manejo de sesiones donde los usarios puede crear, iniciar, cerrar, eliminar y actulizar su información de 
+de usuario para el manejo de sesiones. |
 
 #### Diagrama inicial
 ![image](https://user-images.githubusercontent.com/97042355/175753575-91ad17fe-b591-4862-919d-2d0b193e136d.png)
