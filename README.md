@@ -176,11 +176,12 @@
 ### Construido con
 
 <ul>
-  <li> Python 3.10.2 Link video YouTube: https://www.youtube.com/watch?v=HdO_fU3OA14
-  <li> Visual Studio Code
+  <li> Python v3.10.5 Link video YouTube: https://www.youtube.com/watch?v=HdO_fU3OA14
+  <li> Visual Studio Code v1.70.0 Link video YouTube: https://www.youtube.com/watch?v=7EAFKJXTq30
   <li> Django 
+  <li> VirtualEnv 
   <li> Arduino Uno
-  <li> Arduino IDE
+  <li> Arduino IDE v1.8.19 Link video YouTube: https://youtu.be/1uQca71604c 
 </ul>
 
 <!-- Iniciando -->
