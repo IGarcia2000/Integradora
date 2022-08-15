@@ -7,6 +7,8 @@
     <li>
       <a href="#acerca-del-proyecto">Acerca Del Proyecto</a>
       <ul>
+	  <li><a href="#Diagramas Casos de Uso:">Diagramas Casos de Uso</a></li>
+	  <li><a href="#Diagrama de Clases:">Diagrama de Clases</a></li>
         <li><a href="#construido-con">Construido Con</a></li>
       </ul>
     </li>
@@ -15,9 +17,6 @@
       <ul>
         <li><a href="#requisitos">Prerrequisitos</a></li>
         <li><a href="#instalacion">Instalación</a></li>
-	  <li><a href="#Diagramas Casos de Uso:">Diagrama de Clases</a></li>
-	  <li><a href="#Diagrama de Clases:">Diagrama de Clases</a></li>
-	
       </ul>
     </li>
     <li><a href="#uso">Uso</a></li>
@@ -172,6 +171,7 @@
 ### Prototipo
 ![Captura de pantalla 2022-06-23 222828](https://user-images.githubusercontent.com/97042355/175456470-01a2394a-4d79-475e-8c9b-7b4d02d2bfe8.png)
 
+<!-- Diagramas Casos de Uso: -->
 ### Diagramas Casos de Uso:
 <table> <tr> <th>Requerimiento</th><th>Imagen</th></tr>
   <tr>
@@ -216,6 +216,7 @@
   </tr>
 </table>
 
+<!-- Diagrama de Clases: -->
 ### Diagrama de Clases:
 
 <table> <tr> <th>Diagramas de Clase UML</th></tr>
@@ -224,8 +225,6 @@
     <td><img src="./Imagenes/DClases.png" width="600" height="500" alt="Diagrama de Clases para la Base de Datos"/></td>
   </tr>
 </table>
-
-<!-- Construido con -->
 
 
 <!-- Construido con -->
