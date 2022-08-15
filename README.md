@@ -174,18 +174,8 @@
   <tr>
     <td>Requerimiento 1: Eventos</td>
     <td>
-    <img src="" alt="Placa Arduino UNO" width="100" height="100"/>
+    <img src="../Img_Documentation/Eventos.png" alt="Placa Arduino UNO" width="100" height="100"/>
     </td>
-     <td><ul>
-      <li>Microcontrolador: ATMega328P.
-      <li>Velocidad de reloj: 16 MHz.
-      <li>Voltaje de trabajo: 5V.
-      <li>Voltaje de entrada: 7,5 a 12 voltios.
-      <li>Pinout: 14 pines digitales (6 PWM)  y 6 pines analógicos.
-      <li>1 puerto serie por hardware.
-      <li>Memoria: 32 KB Flash (0,5 para bootloader), 2KB RAM y 1KB Eeprom
-       </ul></td>
-    <td>1</td>
   </tr> 
   <tr>
     <td>Sensor de temperatura LM35</td>
