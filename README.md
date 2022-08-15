@@ -170,46 +170,55 @@
 ![Captura de pantalla 2022-06-23 222828](https://user-images.githubusercontent.com/97042355/175456470-01a2394a-4d79-475e-8c9b-7b4d02d2bfe8.png)
 
 ### Diagramas Casos de Uso:
-<table> <tr> <th>Requerimiento</th><th>Imagen</th>
+<table> <tr> <th>Requerimiento</th><th>Imagen</th></tr>
   <tr>
     <td>Requerimiento 1: Eventos</td>
     <td>
-    <img src="./Imagenes/Eventos.png" alt="Eventos" width="200" height="300"/>
+    <img src="./Imagenes/Eventos.png" alt="Eventos" width="400" height="300"/>
     </td>
   </tr> 
   <tr>
-    <td>Requerimiento 4: Servicios</td>
+    <td>Requerimiento 2: Servicios</td>
     <td>
-    <img src="./Imagenes/Servicios.png"  alt="Servicios" width="200" height="300"/>
+    <img src="./Imagenes/Servicios.png"  alt="Servicios" width="400" height="300"/>
     </td>
   </tr> 
   <tr>
     <td>Requerimiento 3: Historia</td>
-    <td><img src="./Imagenes/Historia.png" alt="Historia" width="200" height="300"/></td>
+    <td><img src="./Imagenes/Historia.png" alt="Historia" width="400" height="300"/></td>
   </tr> 
   <tr>
     <td>Requerimiento 4: Zona Psicologica</td>
-    <td><img src="./Imagenes/ZPsicologica.png" width="200" height="300" alt="Zona Psicologica"/></td>
+    <td><img src="./Imagenes/ZPsicologica.png" width="400" height="300" alt="Zona Psicologica"/></td>
   </tr>
   <tr>
     <td>Requerimiento 5: Productos</td>
-    <td><img src="./Imagenes/Productos.png" width="200" height="300" alt="Productos"/></td>
+    <td><img src="./Imagenes/Productos.png" width="400" height="300" alt="Productos"/></td>
   </tr> 
   <tr>
     <td>Requerimiento 6: Promociones</td>
-    <td><img src="./Imagenes/Promociones.png" width="200" height="300" alt="Promociones"/></td>
+    <td><img src="./Imagenes/Promociones.png" width="400" height="300" alt="Promociones"/></td>
   </tr>
   <tr>
     <td>Requerimiento 7: Apartado Extra</td>
-    <td><img src="./Imagenes/ApartadoE.png" width="200" height="300" alt="Apartado Extra"/></td>
+    <td><img src="./Imagenes/ApartadoE.png" width="400" height="300" alt="Apartado Extra"/></td>
   </tr>
   <tr>
     <td>Requerimiento 8: Sensor de Temperatura</td>
-    <td><img src="./Imagenes/Sensor.png" width="200" height="300" alt="Sensor de Temperatura"/></td>
+    <td><img src="./Imagenes/Sensor.png" width="400" height="300" alt="Sensor de Temperatura"/></td>
   </tr>
   <tr>
     <td>Requerimiento 9: Manejo de Sesiones</td>
-    <td><img src="./Imagenes/Sesiones.png" width="200" height="300" alt="Manejo de Sesiones"/></td>
+    <td><img src="./Imagenes/Sesiones.png" width="400" height="300" alt="Manejo de Sesiones"/></td>
+  </tr>
+</table>
+
+### Diagrama de Clases:
+
+<table> <tr> <th>Diagramas de Clase UML</th></tr>
+	<tr>
+    <td>Diagrama de Clases</td>
+    <td><img src="./Imagenes/DClases.png" width="600" height="500" alt="Diagrama de Clases para la Base de Datos"/></td>
   </tr>
 </table>
 
