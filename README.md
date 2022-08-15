@@ -174,27 +174,43 @@
   <tr>
     <td>Requerimiento 1: Eventos</td>
     <td>
-    <img src="./Imagenes/Eventos.png" alt="Placa Arduino UNO" width="100" height="100"/>
+    <img src="./Imagenes/Eventos.png" alt="Eventos" width="200" height="300"/>
     </td>
   </tr> 
   <tr>
-    <td>Sensor de temperatura LM35</td>
+    <td>Requerimiento 4: Servicios</td>
     <td>
-    <img src="https://natytec.com.mx/wp-content/uploads/2018/10/lm35dz.jpg"  alt="ESP32 Cam" width="100"/>
+    <img src="./Imagenes/Servicios.png"  alt="Servicios" width="200" height="300"/>
     </td>
   </tr> 
   <tr>
-    <td>Display LCD 16x2</td>
-    <td><img src="https://user-images.githubusercontent.com/8560750/166756741-813b8a4a-d952-4e20-aa89-b7699ffeb30d.jpg" alt="Lcd Display" width="100"/></td>
+    <td>Requerimiento 3: Historia</td>
+    <td><img src="./Imagenes/Historia.png" alt="Historia" width="200" height="300"/></td>
   </tr> 
   <tr>
-    <td>Cables </td>
-    <td><img src="https://leantec.es/wp-content/uploads/2018/02/p_6_8_1_681-40-CABLES-MACHO-HEMBRA-10cm-jumpers-dupont-254-arduino.jpg" width="100" alt="App de realidad aumentada"/></td>
+    <td>Requerimiento 4: Zona Psicologica</td>
+    <td><img src="./Imagenes/ZPsicologica.png" width="200" height="300" alt="Zona Psicologica"/></td>
   </tr>
   <tr>
-    <td>Modulo wifi </td>
-    <td><img src="https://rdteam.mx/wp-content/uploads/2020/11/762365-mla31063767605_062019-o-233358ad17b62cb14815638265858625-640-0.jpg" width="100" alt="Modulo WiFi"/></td>
+    <td>Requerimiento 5: Productos</td>
+    <td><img src="./Imagenes/Productos.png" width="200" height="300" alt="Productos"/></td>
   </tr> 
+  <tr>
+    <td>Requerimiento 6: Promociones</td>
+    <td><img src="./Imagenes/Promociones.png" width="200" height="300" alt="Promociones"/></td>
+  </tr>
+  <tr>
+    <td>Requerimiento 7: Apartado Extra</td>
+    <td><img src="./Imagenes/ApartadoE.png" width="200" height="300" alt="Apartado Extra"/></td>
+  </tr>
+  <tr>
+    <td>Requerimiento 8: Sensor de Temperatura</td>
+    <td><img src="./Imagenes/Sensor.png" width="200" height="300" alt="Sensor de Temperatura"/></td>
+  </tr>
+  <tr>
+    <td>Requerimiento 9: Manejo de Sesiones</td>
+    <td><img src="./Imagenes/Sesiones.png" width="200" height="300" alt="Manejo de Sesiones"/></td>
+  </tr>
 </table>
 
 <!-- Construido con -->
