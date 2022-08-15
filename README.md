@@ -20,7 +20,7 @@
     <li><a href="#uso">Uso</a></li>
     <li><a href="#guias">Guias</a></li>
     <li><a href="#contribucion">Contribución</a></li>
-    <li><a href="#licencia">licencia</a></li>
+    <li><a href="#licencia">Licencia</a></li>
     <li><a href="#contacto">Contacto</a></li>
     <li><a href="#participantes">Participantes</a></li>
     <li><a href="#referencias">Referencias</a></li>
@@ -169,6 +169,99 @@
 ### Prototipo
 ![Captura de pantalla 2022-06-23 222828](https://user-images.githubusercontent.com/97042355/175456470-01a2394a-4d79-475e-8c9b-7b4d02d2bfe8.png)
 
+### Diagramas Casos de Uso:
+<table> <tr> <th>Requerimiento</th><th>Imagen</th>
+  <tr>
+    <td>Requerimiento 1: Eventos</td>
+    <td>
+    <img src="" alt="Placa Arduino UNO" width="100" height="100"/>
+    </td>
+     <td><ul>
+      <li>Microcontrolador: ATMega328P.
+      <li>Velocidad de reloj: 16 MHz.
+      <li>Voltaje de trabajo: 5V.
+      <li>Voltaje de entrada: 7,5 a 12 voltios.
+      <li>Pinout: 14 pines digitales (6 PWM)  y 6 pines analógicos.
+      <li>1 puerto serie por hardware.
+      <li>Memoria: 32 KB Flash (0,5 para bootloader), 2KB RAM y 1KB Eeprom
+       </ul></td>
+    <td>1</td>
+  </tr> 
+  <tr>
+    <td>Sensor de temperatura LM35</td>
+    <td>
+    <img src="https://natytec.com.mx/wp-content/uploads/2018/10/lm35dz.jpg"  alt="ESP32 Cam" width="100"/>
+    </td>
+    <td><ul>
+      <li>Modelo: LM35
+      <li>Voltaje de alimentación: 4V – 30V (5V recomendado)
+      <li>Rango de sensado temperatura: -55℃ hasta +150℃
+      <li>Precisión en el rango de -10°C hasta +85°C: ±0.5°C
+      <li>Pendiente: 10mV/ºC
+      <li>Bajo consumo energético: 60uA
+      <li>No necesita componentes adicionales
+      <li>Pines: +VCC, V salida, GND
+      <li>Baja impedancia de salida
+    </ul></td>
+    <td>1</td>
+  </tr> 
+  <tr>
+    <td>Display LCD 16x2</td>
+    <td><img src="https://user-images.githubusercontent.com/8560750/166756741-813b8a4a-d952-4e20-aa89-b7699ffeb30d.jpg" alt="Lcd Display" width="100"/></td>
+    <td>
+      <ul>
+        <li>Voltaje: 5 V</li>
+        <li>Un pin de selección de registro (RS) que controla en qué parte de la memoria de la pantalla LCD está escribiendo datos. </li>
+        <li>Un pin de lectura/escritura (R/W) que selecciona el modo de lectura o el modo de escritura</li>
+        <li>Un pin Habilitar que permite escribir en los registros</li>
+        <li>8 pines de datos (D0 -D7) . Los estados de estos pines (alto o bajo) son los bits que estás escribiendo en un registro cuando escribes, o los valores que estás leyendo cuando lees,</li>
+      </ul>
+    </td>
+    <td>1</td>
+  </tr> 
+  <tr>
+    <td>Cables </td>
+    <td><img src="https://leantec.es/wp-content/uploads/2018/02/p_6_8_1_681-40-CABLES-MACHO-HEMBRA-10cm-jumpers-dupont-254-arduino.jpg" width="100" alt="App de realidad aumentada"/></td>
+    <td>
+      <ul>
+        <li>Conectores tipo A y B que cumplen con el estándar USB
+        <li>Excelente conductividad eléctrica
+        <li>Aproximadamente 20 cm de largo
+        <li>Ideal para utilizar en en computadoras portátiles debido a su longitud
+        <li>Elaborado en plástico color azul translucido
+        <li>Compatible con cualquier otro periférico o dispositivo USB que tenga los mismos conectores
+        </ul>    
+    </td>
+    <td>2 </td>
+  </tr>
+  <tr>
+    <td>Modulo wifi </td>
+    <td><img src="https://rdteam.mx/wp-content/uploads/2020/11/762365-mla31063767605_062019-o-233358ad17b62cb14815638265858625-640-0.jpg" width="100" alt="Modulo WiFi"/></td>
+    <td>
+      <ul>
+        <li>Procesador de 32 bit de bajo consumo
+        <li>Velocidad de 80MHz (máximo de 160MHz)
+        <li>32 KiB RAM instrucciones, 32 KiB RAM cache
+        <li>80 KiB RAM para datos de usuario
+        <li>Memoria flash externa hasta 16MiB
+        <li>Pila de TCP/IP integrada
+        <li>Wifi 802.11 b/g/n 2.4GHz (soporta WPA/WPA2)
+        <li>Certificado por FCC, CE, TELEC, WiFi Alliance y SRRC
+        <li>16 pins GPIO
+        <li>PWM en todos los pines (10 bits)
+        <li>Conversor analógico digital de 10 bits
+        <li>UART (2x TX y 1x RX)
+        <li>SPI, I2C, I2S
+        <li>Voltaje de operación 3.0 a 3.6V
+        <li>Consumo medio 80mA
+        <li>Modo consumo stand-by (1mW) y deep sleep (1uA).
+      </ul>
+    </td>
+    <td>1</td>
+  </tr> 
+
+</table>
+
 <!-- Construido con -->
 
 
@@ -203,11 +296,11 @@ Uso.
 ## Guias
 Guias.
 
-## contribucion
+## Contribucion
 Contribucion.
 
 ## Licencia
-Licencia.
+Privado
 
 ## Contacto
 <ul>
