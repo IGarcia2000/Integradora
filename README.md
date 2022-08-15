@@ -15,6 +15,9 @@
       <ul>
         <li><a href="#requisitos">Prerrequisitos</a></li>
         <li><a href="#instalacion">Instalación</a></li>
+	  <li><a href="#Diagramas Casos de Uso:">Diagrama de Clases</a></li>
+	  <li><a href="#Diagrama de Clases:">Diagrama de Clases</a></li>
+	
       </ul>
     </li>
     <li><a href="#uso">Uso</a></li>
@@ -285,6 +288,11 @@ Privado
 <li>Leantec. (s.f.). leantec.com. Obtenido de Google: https://leantec.es/wp-content/uploads/2018/02/p_6_8_1_681-40-CABLES-MACHO-HEMBRA-10cm-jumpers-dupont-254-arduino.jpg
 <li>ratytec. (s.f.). ratytec.com. Obtenido de Google: https://natytec.com.mx/wp-content/uploads/2018/10/lm35dz.jpg
 <li>rdteam. (s.f.). rdteam.mx. Obtenido de Google: https://rdteam.mx/wp-content/uploads/2020/11/762365-mla31063767605_062019-o-233358ad17b62cb14815638265858625-640-0.jpg
+<li>YouTube. (s.f.). YouTube.mx. Obtenido de Google: https://www.youtube.com/watch?v=uSbDMs7Y9yI
+<li>MDN Web Docs (s.f.). mozilla Obtenido de Google: https://developer.mozilla.org/es/docs/Learn/Server-side/Django/development_environment
+<li>Sector Geek (s.f.). Sector Geek Obtenido de Google: https://sectorgeek.com/instalar-python-pip-y-virtualenv-en-windows-10/
+<li>MDN Web Doc (s.f.). mozilla Obtenido de Google: https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML
+<li>You Tube (s.f.). YouTube.mx Obtenido de Google: https://www.youtube.com/watch?v=vo4VF3neyrs
 </ul>
 
 
