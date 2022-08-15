@@ -7,8 +7,8 @@
     <li>
       <a href="#acerca-del-proyecto">Acerca Del Proyecto</a>
       <ul>
-	  <li><a href="#Diagramas Casos de Uso:">Diagramas Casos de Uso</a></li>
-	  <li><a href="#Diagrama de Clases:">Diagrama de Clases</a></li>
+	  <li><a href="#diagramas-casos-de-uso:">Diagramas Casos de Uso</a></li>
+	  <li><a href="#diagrama-de-clases:">Diagrama de Clases</a></li>
         <li><a href="#construido-con">Construido Con</a></li>
       </ul>
     </li>
