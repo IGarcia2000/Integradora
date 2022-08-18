@@ -1,14 +1,16 @@
-# Casa Iscali
+# **_Casa Iscali_**
 
-## contenido
+## Contenido
 <details>
   <summary>Tabla contenidos</summary>
   <ol>
     <li>
       <a href="#acerca-del-proyecto">Acerca Del Proyecto</a>
       <ul>
-	  <li><a href="#diagramas-casos-de-uso:">Diagramas Casos de Uso</a></li>
-	  <li><a href="#diagrama-de-clases:">Diagrama de Clases</a></li>
+        <li><a href="#justificación-del-proyecto">Justificacion del proyecto</a></li>
+        <li><a href="#requerimientos">Requerimientos</a></li>
+	      <li><a href="#diagramas-casos-de-uso">Diagramas Casos de Uso</a></li>
+	      <li><a href="#diagrama-de-clases">Diagrama de Clases</a></li>
         <li><a href="#construido-con">Construido Con</a></li>
       </ul>
     </li>
@@ -33,30 +35,28 @@
 ## Acerca del proyecto
 
 ### Nombre del proyecto
-**Casa Iscali**
+### **_Casa Iscali_**
 
-### Justificación del proyecto
+## Justificación del proyecto
 
-<div style="text-align: justify;">
+  > El servicio al cliente es lo primordial de un servicio y que mejor manera que pueda acceder a él desde cualquier parte del mundo a cualquier hora del día o noche.
 
-> El servicio al cliente es lo primordial de un servicio y que mejor manera que pueda acceder a él desde cualquier parte del mundo a cualquier hora del día o noche.
+  > En Casa Iscali podemos ver que la cantidad de nuestros clientes han aumentado y la forma en que ellos necesitan ser atendidos necesita un cambio de ahí la necesidad de crear una página web como una nueva forma para que nuestros clientes obtengan información rápido y desde la comodidad de su hogar, trabajo o cualquier lugar donde se encuentren. 
 
-> En Casa Iscali podemos ver que la cantidad de nuestros clientes han aumentado y la forma en que ellos necesitan ser atendidos necesita un cambio de ahí la necesidad de crear una página web como una nueva forma para que nuestros clientes obtengan información rápido y desde la comodidad de su hogar, trabajo o cualquier lugar donde se encuentren. 
+  > Dolores hidalgo es una ciudad donde se puede apreciar que le crecimiento de su población y sus necesidades están en un punto importante y los proyectos como Casa Iscali necesitan adaptarse a las formas actuales de darse a conocer al público, la forma de brindar servicios y como mejorar los servicios que otros proyectos(competidores) o lugares ofrecen. Sabemos que en la actualidad las páginas web son un elemento imprescindible cuando de promocionarse y llevar un registro de los clientes se habla. 
 
-> Dolores hidalgo es una ciudad donde se puede apreciar que le crecimiento de su población y sus necesidades están en un punto importante y los proyectos como Casa Iscali necesitan adaptarse a las formas actuales de darse a conocer al público, la forma de brindar servicios y como mejorar los servicios que otros proyectos(competidores) o lugares ofrecen. Sabemos que en la actualidad las páginas web son un elemento imprescindible cuando de promocionarse y llevar un registro de los clientes se habla. 
+  > La página web brindara a nuestros usuarios una forma más rápida para crear unas reservaciones, algo importante de la creación de la página web es para que la persona que está encargada de Casa Iscali tenga una forma más sencilla de llevar el registro de reservaciones, citas y pueda publicar promociones, los servicios que ofrecen en Casa Iscali y los eventos que se celebran para mejorar la experiencia de los clientes. Casa Iscali también necesita que más gente la conozca y la página web puede hacer que el crecimiento sea aún mayor del que tiene actualmente.    
 
-> La página web brindara a nuestros usuarios una forma más rápida para crear unas reservaciones, algo importante de la creación de la página web es para que la persona que está encargada de Casa Iscali tenga una forma más sencilla de llevar el registro de reservaciones, citas y pueda publicar promociones, los servicios que ofrecen en Casa Iscali y los eventos que se celebran para mejorar la experiencia de los clientes. Casa Iscali también necesita que más gente la conozca y la página web puede hacer que el crecimiento sea aún mayor del que tiene actualmente.    
-</div>
 
 ### Objetivo del proyecto: 
 
-> Crear una página web para mejorar la experiencia y los resultados de la asistencia de los clientes de "Casa Iscali", mostrando eventos, promociones, los servicios que se ofrecen y productos, permitiéndole también al proyecto crecer como empresa, así también como facilitar la labor de los administradores de Casa Iscali. Buscando el incremento en la venta de los productos y aumento de los clientes actuales. Sabiendo que los clientes ahora se rigen mucho por lo que encuentran en Internet la creación de la página web intenta dar un salto para la administración de reservaciones(citas) con los profesionales que conforman Casa Iscali.  
+  > Crear una página web para mejorar la experiencia y los resultados de la asistencia de los clientes de "Casa Iscali", mostrando eventos, promociones, los servicios que se ofrecen y productos, permitiéndole también al proyecto crecer como empresa, así también como facilitar la labor de los administradores de Casa Iscali. Buscando el incremento en la venta de los productos y aumento de los clientes actuales. Sabiendo que los clientes ahora se rigen mucho por lo que encuentran en Internet la creación de la página web intenta dar un salto para la administración de reservaciones(citas) con los profesionales que conforman Casa Iscali.  
 
 ### Descripción general del proyecto
 
-> Se creará un circuito que permitirá medir la temperatura en la sala de masajes para tener un control de la misma y que el cliente tenga la mejor experiencia, buscando también optimizar funcionamiento de establecimiento. Además, se creará una página web, en la cual se explicará sobre el establecimiento y sus funciones, es decir; sala de masajes y una consultoría de psicología, así mismo, en la página web se podrán hacer reservaciones(citas) para la consultoría y los masajes, se podrá ver un calendario donde se verán las reservaciones y poder seleccionar el día que esté disponible o sea más cómodo asistir. Además, se crearán secciones para mostrar el trabajo que han realizado estos profesionales, su trayectoria e inicios y como último requisito se creara una sección donde se mostrara el trabajo de un diseñador digital, pintor y profesor de arte que imparte clases los fines de semana. Se añadirán las diferentes formas de contactar a estos profesionales. 
+  > Se creará un circuito que permitirá medir la temperatura en la sala de masajes para tener un control de la misma y que el cliente tenga la mejor experiencia, buscando también optimizar funcionamiento de establecimiento. Además, se creará una página web, en la cual se explicará sobre el establecimiento y sus funciones, es decir; sala de masajes y una consultoría de psicología, así mismo, en la página web se podrán hacer reservaciones(citas) para la consultoría y los masajes, se podrá ver un calendario donde se verán las reservaciones y poder seleccionar el día que esté disponible o sea más cómodo asistir. Además, se crearán secciones para mostrar el trabajo que han realizado estos profesionales, su trayectoria e inicios y como último requisito se creara una sección donde se mostrara el trabajo de un diseñador digital, pintor y profesor de arte que imparte clases los fines de semana. Se añadirán las diferentes formas de contactar a estos profesionales. 
 
-
+---
 
 ### Material de uso:
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr>
@@ -148,10 +148,11 @@
     </td>
     <td>1</td>
   </tr> 
-
 </table>
 
-#### Requerimientos
+---
+
+## Requerimientos
 |No.  |Requerimiento  |
 |---  |-------------  |
 | 1   |Eventos: La aplicación web tendrá una zona que será llamada eventos donde se podrán revisar las diferentes planeaciones de Casa Iscali donde se verán los eventos con la fecha y el servicio que se ofrece en el evento. |
@@ -164,6 +165,8 @@
 | 8   |Sensor de Temperatura: Se creará un circuito con Arduino que medirá la temperatura de la sala de masajes donde se esté guardando esta información en una base de datos el circuito buscara en un futuro manipular la temperatura del lugar, aunque se empezará con solo mostrarla en la pantalla LCD. |
 | 9   |Manejo de sesiones: Se desarrollara una parte para el manejo de sesiones donde los usarios puede crear, iniciar, cerrar, eliminar y actulizar su información de usuario para el manejo de sesiones. |7
 
+--- 
+
 #### Diagrama inicial
 ![image](https://user-images.githubusercontent.com/97042355/175753575-91ad17fe-b591-4862-919d-2d0b193e136d.png)
 
@@ -171,8 +174,10 @@
 ### Prototipo
 ![Captura de pantalla 2022-06-23 222828](https://user-images.githubusercontent.com/97042355/175456470-01a2394a-4d79-475e-8c9b-7b4d02d2bfe8.png)
 
-<!-- Diagramas Casos de Uso: -->
-### Diagramas Casos de Uso:
+--- 
+
+<!-- Diagramas Casos de Uso -->
+## Diagramas Casos de Uso
 <table> <tr> <th>Requerimiento</th><th>Imagen</th></tr>
   <tr>
     <td>Requerimiento 1: Eventos</td>
@@ -216,8 +221,8 @@
   </tr>
 </table>
 
-<!-- Diagrama de Clases: -->
-### Diagrama de Clases:
+<!-- Diagrama de Clases -->
+## Diagrama de Clases
 
 <table> <tr> <th>Diagramas de Clase UML</th></tr>
 	<tr>
@@ -226,6 +231,7 @@
   </tr>
 </table>
 
+---
 
 <!-- Construido con -->
 ### Construido con
@@ -279,19 +285,20 @@ Privado
 [contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 
+---
+
 ## Referencias
-### Imagenes
 <ul>
-<li>Amazon. (s.f.). Amazon. Obtenido de Google: https://m.media-amazon.com/images/I/71z22cRPeeL.jpg
-<li>Github. (s.f.). Github.com. Obtenido de Google: https://user-images.githubusercontent.com/8560750/166756741-813b8a4a-d952-4e20-aa89-b7699ffeb30d.jpg
-<li>Leantec. (s.f.). leantec.com. Obtenido de Google: https://leantec.es/wp-content/uploads/2018/02/p_6_8_1_681-40-CABLES-MACHO-HEMBRA-10cm-jumpers-dupont-254-arduino.jpg
-<li>ratytec. (s.f.). ratytec.com. Obtenido de Google: https://natytec.com.mx/wp-content/uploads/2018/10/lm35dz.jpg
-<li>rdteam. (s.f.). rdteam.mx. Obtenido de Google: https://rdteam.mx/wp-content/uploads/2020/11/762365-mla31063767605_062019-o-233358ad17b62cb14815638265858625-640-0.jpg
-<li>YouTube. (s.f.). YouTube.mx. Obtenido de Google: https://www.youtube.com/watch?v=uSbDMs7Y9yI
-<li>MDN Web Docs (s.f.). mozilla Obtenido de Google: https://developer.mozilla.org/es/docs/Learn/Server-side/Django/development_environment
-<li>Sector Geek (s.f.). Sector Geek Obtenido de Google: https://sectorgeek.com/instalar-python-pip-y-virtualenv-en-windows-10/
-<li>MDN Web Doc (s.f.). mozilla Obtenido de Google: https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML
-<li>You Tube (s.f.). YouTube.mx Obtenido de Google: https://www.youtube.com/watch?v=vo4VF3neyrs
+  <li>Amazon. (s.f.). Amazon. Obtenido de Google: https://m.media-amazon.com/images/I/71z22cRPeeL.jpg
+  <li>Github. (s.f.). Github.com. Obtenido de Google: https://user-images.githubusercontent.com/8560750/166756741-813b8a4a-d952-4e20-aa89-b7699ffeb30d.jpg
+  <li>Leantec. (s.f.). leantec.com. Obtenido de Google: https://leantec.es/wp-content/uploads/2018/02/p_6_8_1_681-40-CABLES-MACHO-HEMBRA-10cm-jumpers-dupont-254-arduino.jpg
+  <li>ratytec. (s.f.). ratytec.com. Obtenido de Google: https://natytec.com.mx/wp-content/uploads/2018/10/lm35dz.jpg
+  <li>rdteam. (s.f.). rdteam.mx. Obtenido de Google: https://rdteam.mx/wp-content/uploads/2020/11/762365-mla31063767605_062019-o-233358ad17b62cb14815638265858625-640-0.jpg
+  <li>YouTube. (s.f.). YouTube.mx. Obtenido de Google: https://www.youtube.com/watch?v=uSbDMs7Y9yI
+  <li>MDN Web Docs (s.f.). mozilla Obtenido de Google: https://developer.mozilla.org/es/docs/Learn/Server-side/Django/development_environment
+  <li>Sector Geek (s.f.). Sector Geek Obtenido de Google: https://sectorgeek.com/instalar-python-pip-y-virtualenv-en-windows-10/
+  <li>MDN Web Doc (s.f.). mozilla Obtenido de Google: https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML
+  <li>You Tube (s.f.). YouTube.mx Obtenido de Google: https://www.youtube.com/watch?v=vo4VF3neyrs
 </ul>
 
 

@@ -1,0 +1,40 @@
+{% extends '../base.html' %}
+
+{% block title %} Login {% endblock %}
+
+{% block content %}
+
+    <div class="container-fluid col-xl-4 col-lg-4 col-md-6 col-sm-8">
+        <div class="form-control justify-content-center">
+                <div class="form-group text-center">
+                    <h2 class="text-center">Iniciar Sesion</h2>
+                </div>
+                <hr>
+                <div class="form-group text-center">
+                    <img src="" width="30" height="30" alt="">
+                </div>
+                <div class="text-center form-group">
+                    <form class="form-group" method="post">
+                        {% csrf_token %}   
+                        <div class="mb-3 row">
+                            <label for="staticEmail" class="col-sm-2 col-form-label">Usuario</label>
+                            <div class="col-sm-10">
+                            <a>{{ form.username }}</a>
+                            </div>
+                        </div>
+                        <div class="mb-3 row">
+                            <label for="inputPassword" class="col-sm-2 col-form-label">Contraseña</label>
+                            <div class="col-sm-10">
+                            <a> {{ form.password }} </a>
+                            </div>
+                        </div> 
+                        <div class="form-group d-grid gap-2 py-2">
+                            <button type="submit" class="btn btn-success text-white">Iniciar Sesion</button>
+                        </div>
+                        <p><a href="{% url 'password_reset' %}">Olvido su contraseña?</a></p>
+                    </form>
+                </div>
+        </div>
+    </div>
+
+{% endblock %}

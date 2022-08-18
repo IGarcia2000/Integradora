@@ -1,0 +1,22 @@
+/* Cambiar el tipo de letra */
+
+nav.navbar {
+    background: linear-gradient(15deg, #228b22, #dcdcdc);
+}
+
+nav.navbar div.navbar a.navbar-brand {
+    color: black;
+    font-family: cursive;
+    font-style: bold;
+    font-size: x-large;
+}
+
+nav.navbar div.collapse li.nav-item{
+    color: black;
+    font-style: bold;
+    font-family: cursive;
+}
+
+.nav-item{
+    color: black;
+}
