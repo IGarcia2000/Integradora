@@ -234,6 +234,7 @@
 ---
 <!-- Diagrama de base de datos -->
 ##Diagrama de la base de datos
+
 ![image](https://user-images.githubusercontent.com/97042355/185463533-679ae2b0-5c22-43d5-b26a-646a34dc7944.png)
 <!-- Construido con -->
 ---
