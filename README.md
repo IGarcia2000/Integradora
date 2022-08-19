@@ -25,7 +25,7 @@
     <li><a href="#guias">Guias</a></li>
     <li><a href="#contribucion">Contribución</a></li>
     <li><a href="#licencia">Licencia</a></li>
-    <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#contacto">Contactos</a></li>
     <li><a href="#participantes">Participantes</a></li>
     <li><a href="#referencias">Referencias</a></li>
   </ol>
@@ -226,8 +226,16 @@
 
 <table> <tr> <th>Diagramas de Clase UML</th></tr>
 	<tr>
-    <td>Diagrama de Clases</td>
     <td><img src="./Imagenes/DClases.png" width="600" height="500" alt="Diagrama de Clases para la Base de Datos"/></td>
+  </tr>
+</table>
+
+<!-- Diagrama de Clases -->
+## Modelo de Base de Datos
+
+<table> <tr> <th>Diagramas de Base de Datos UML</th></tr>
+	<tr>
+    <td><img src="./Imagenes/entidad-relacion.png" width="600" height="500" alt="Diagrama de Clases para la Base de Datos"/></td>
   </tr>
 </table>
 
@@ -241,9 +249,9 @@
 <ul>
   <li> Python v3.10.5 Link video YouTube: https://www.youtube.com/watch?v=HdO_fU3OA14
   <li> Visual Studio Code v1.70.0 Link video YouTube: https://www.youtube.com/watch?v=7EAFKJXTq30
-  <li> Django 
-  <li> VirtualEnv 
-  <li> Arduino Uno
+  <li> Django v4.0.6 Link de video YouTube: https://youtu.be/-oSnfe8HCqs
+  <li> VirtualEnv 22.2.2 Link video YouTube: https://youtu.be/g_Xt6NwHSHw
+  <li> MySQL 
   <li> Arduino IDE v1.8.19 Link video YouTube: https://youtu.be/1uQca71604c 
 </ul>
 
@@ -252,12 +260,28 @@
 Iniciando.
 
 <!-- Requisitos -->
-### Requisitos
-Requisitos.
+### Requisitos del sistema
 
-<!-- Instalación -->
-### Instalacion
-Instalación.
+#### Requisitos de Software.
+<ul>
+  <li>Conexión a Internet estable
+  <li>Navegador Web
+  <li>Editor de Código o Compilador de Código
+  <li>Django 
+  <li>Python
+  <li>Bootstrap 5
+</ul>
+
+#### Requisitos de Hardware.
+<ul>
+  <li>MS Windows XP o superior.
+  <li>Apple OSX 10.4.x o superior.
+  <li>GNU/Linux 2.6.x o superior.
+  <li>Mínimo 256 MB RAM y 512 MB de memoria de intercambio.
+  <li>Mínimo 512 MB de espacio de disco duro.
+  <li>4 GB o más RAM.
+  <li>40 GB o más de espacio de disco duro.
+</ul>
 
 <!-- Uso -->
 ### Uso
@@ -270,8 +294,11 @@ Guias.
 Contribucion.
 
 ## Licencia
-Privado
 
+### Privado
+
+---
+<!-- Contactos -->
 ## Contacto
 <ul>
   <li>Nombre: Pablo Uriel Rosas Vargas
@@ -280,9 +307,9 @@ Privado
 </ul>
 
 ## Participantes
-* [Pablo Uriel Rosas Vargas]()
+* [Pablo Uriel Rosas Vargas](https://github.com/uriel577)
+* [Christopher Ivan Garcia Avila](https://github.com/IGarcia2000)
 * [Gabriel Barrón Rodríguez]()
-* [Christopher Ivan Garcia Avila]()
 
 [contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
