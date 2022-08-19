@@ -1,61 +1,63 @@
 <!-- templates/registration/signup.html -->
-{% extends "base.html" %}
+{% extends '../base.html' %}
 
 {% block title %}Crear Sesion{% endblock %}
 
 {% block content %}
 
-  <div class="container-fluid col-xl-5 col-lg-5 col-md-7 col-sm-9">
+  <div class="container-fluid col-xl-5 col-lg-5 col-md-7 col-sm-9 pt-4">
     <div class="form-control justify-content-center">
       <div class="form-group text-center">
           <h2 class="text-center">Crear Sesion</h2>
       </div>
       <hr>
       <div class="form-group text-center">
-        <img src="" width="30" height="30" alt="">
+        <img src="/static/img/logo.jpeg" class="img-fluid rounded-circle" width="200" height="200" alt="">
       </div>
+      <hr>
       <div class="text-center form-group">
         <form class="form-group" method="post">
           {% csrf_token %}  
-            <div class="mb-3 row">
-              <label class="col-sm-2 col-form-label">Nombre(s)</label>
+            <div class="mb-3 row ms-2">
+              <label class="col-sm-2 col-form-label">Nombre(s):</label>
               <div class="col-sm-10">
                 <a>{{ form.first_name }}</a>
               </div>
             </div>
-            <div class="mb-3 row">
-              <label class="col-sm-2 col-form-label">Apellido(s)</label>
+            <div class="mb-3 row ms-2">
+              <label class="col-sm-2 col-form-label">Apellido(s):</label>
               <div class="col-sm-10">
                 <a>{{ form.last_name }}</a>
               </div>
             </div>
-            <div class="mb-3 row">
-              <label class="col-sm-2 col-form-label">Usuario</label>
+            <div class="mb-3 row ms-2">
+              <label class="col-sm-2 col-form-label">Usuario:</label>
               <div class="col-sm-10">
                 <a>{{ form.username }}</a>
               </div>
             </div>
-            <div class="mb-3 row">
-              <label class="col-sm-2 col-form-label">Correo</label>
+            <div class="mb-3 row ms-2">
+              <label class="col-sm-2 col-form-label">Correo:</label>
               <div class="col-sm-10">
                 <a>{{ form.correo }}</a>
               </div>
             </div>
-            <div class="mb-3 row">
-              <label class="col-sm-2 col-form-label">Contraseña</label>
+            <div class="mb-3 row ms-2">
+              <label class="col-sm-2 col-form-label">Contraseña:</label>
               <div class="col-sm-10">
                 <a> {{ form.password1 }} </a>
               </div>
             </div> 
-            <div class="mb-2 row">
-              <label class="col-sm-2 col-form-label"> Confirmar </label>
+            <div class="mb-2 row ms-2">
+              <label class="col-sm-2 col-form-label"> Confirmar:</label>
               <div class="col-sm-10">
                 <a> {{ form.password2 }} </a>
               </div>
             </div>
             <div class="form-group d-grid gap-2 py-2">
-                <button type="submit" class="btn btn-success text-white">Crear Sesion</button>
+                <button type="submit" class="btn boton btn-success text-white">Crear Sesion</button>
             </div>
+            <p class="link-boton"><a href="{% url 'signup' %}">¡Ya tengo una cuenta!</a></p>
         </form>
       </div>
     </div>

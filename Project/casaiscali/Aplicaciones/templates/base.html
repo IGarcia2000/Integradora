@@ -9,6 +9,7 @@
   {% bootstrap_javascript %}
 
   {% bootstrap_messages %}
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>{% block title %} Django Auth Tutorial {% endblock %}</title>
@@ -19,8 +20,8 @@
   <main>
       <nav class="navbar navbar-expand-lg">
         <div class="container-fluid navbar navbar-light ">
-          <a class="navbar-brand" href="#">
-            <img src="" width="30" height="30" alt="">
+          <a class="navbar-brand">
+            <img src="static/img/logom.png" class="img-fluid rounded-circle" width="45" height="45" alt="">
           </a>
           <a class="navbar-brand" href="">Casa Iscali</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -52,17 +53,21 @@
                         </a>
                       <ul class="dropdown-menu">
                         {% if user.is_authenticated %}
-                          <li class="nav-item">
+                          <li class="nav-item mensaje ps-2">
+                            <a class="nav-link active" aria-current="page">Usuario: {{ user.get_username }}</a>
+                          </li>
+                          <hr>
+                          <li class="nav-item ps-2">
                             <a class="nav-link active" aria-current="page" href="{% url 'logout' %}">Cerrar Sesion</a>
                           </li>
-                          <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="{% url 'password_reset' %}">Restablecer contraseña</a>
+                          <li class="nav-item ps-2">
+                            <a class="nav-link active" aria-current="page" href="{% url 'password_reset' %}">Cambiar contraseña</a>
                           </li>
                         {% else %}
-                          <li class="nav-item">
+                          <li class="nav-item ps-2">
                             <a class="nav-link active" aria-current="page" href="{% url 'login' %}">Iniciar Sesion</a>
                           </li>
-                          <li class="nav-item">
+                          <li class="nav-item ps-2">
                             <a class="nav-link active" aria-current="page" href="{% url 'signup' %}">Crear Cuenta</a>
                           </li>
                         {% endif %}
@@ -75,8 +80,10 @@
           </div>
         </div>
       </nav>
+  
     <div class="container py-2">
       {% block content %}
+
       {% endblock %}
     </div>  
   </main>

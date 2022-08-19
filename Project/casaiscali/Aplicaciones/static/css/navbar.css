@@ -1,7 +1,7 @@
 /* Cambiar el tipo de letra */
 
 nav.navbar {
-    background: linear-gradient(15deg, #228b22, #dcdcdc);
+    background: linear-gradient(15deg, 	#ff1493, #dcdcdc);
 }
 
 nav.navbar div.navbar a.navbar-brand {
@@ -18,5 +18,18 @@ nav.navbar div.collapse li.nav-item{
 }
 
 .nav-item{
+    color: black;
+}
+
+button.boton {
+    background-color: #ff1493;
+    border-color: #ff1493;
+}
+
+p.link-boton {
+    font-size: 10px;
+}
+
+li.mensaje {
     color: black;
 }
