@@ -15,13 +15,14 @@
   <title>{% block title %} Django Auth Tutorial {% endblock %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{% static 'css/navbar.css' %}">
+  <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 <body>
   <main>
       <nav class="navbar navbar-expand-lg">
         <div class="container-fluid navbar navbar-light ">
           <a class="navbar-brand">
-            <img src="static/img/logom.png" class="img-fluid rounded-circle" width="45" height="45" alt="">
+            <img src="/static/img/logom.png" class="img-fluid rounded-circle" width="45" height="45" alt="">
           </a>
           <a class="navbar-brand" href="">Casa Iscali</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,10 +34,13 @@
                 <a class="nav-link active" aria-current="page" href="/">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" href="#">Eventos</a>
+                <a class="nav-link active" href="{% url 'eventos' %}">Eventos</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link active" href="#">Productos</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="{% url 'servicios' %}">Servicios</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link active" href="#">Zona Psicologica</a>
@@ -47,9 +51,9 @@
               <ul class="navbar-nav">
                 <li class="nav-item ">
                   <form class="d-flex">
-                    <li class="nav-item dropdown ">
+                    <li class="nav-item dropdown">
                         <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                          Sesion
+                          Perfil
                         </a>
                       <ul class="dropdown-menu">
                         {% if user.is_authenticated %}
@@ -81,11 +85,105 @@
         </div>
       </nav>
   
-    <div class="container py-2">
-      {% block content %}
-
-      {% endblock %}
-    </div>  
+    <div id="body">
+      <div class="container py-2">
+        {% block content %}
+  
+        {% endblock %}
+      </div>
+    </div>
+    <footer>
+      <div class="bg-black"></div>
+    </footer>
   </main>
+
+  <footer>
+    <div class="footer__addr">
+      <h1 class="footer__logo">Casa Iscali</h1>
+          
+      <h2 id="title-contact">Contactos</h2>
+      
+      <address>
+        Dirección: Casa Iscali Aguascalientes #26. Colonia - Centro. Dolores Hidalgo C.I.N., Gto.<br>
+      </address>
+    </div>
+    
+    <ul class="footer__nav">
+
+      <li class="nav__item nav__item--extra">
+        <h2 class="nav__title">Terapeuta</h2>
+        
+        <ul class="nav__ul nav__ul--extra">
+          <li>
+            <a href="https://www.flaticon.es/iconos-gratis/correo-electronico" title="correo electrónico iconos">Correo: lupitavargas112@gmail.com</a>
+          </li>
+          
+          <li>
+            <a href="https://www.flaticon.es/iconos-gratis/whatsapp" title="whatsapp iconos">WhatsApp: +52 418 181 2609</a>
+          </li>
+          
+          <li>
+            <a href="{% url 'home' %}">Home</a>
+          </li>
+          
+          <li>
+            <a href="{% url 'servicios' %}">Servicios</a>
+          </li>
+          
+          <li>
+            <a href="#">Productos</a>
+          </li>
+          
+          <li>
+            <a href="#">Eventos</a>
+          </li>
+        </ul>
+      </li>
+
+      <li class="nav__item">
+        <h2 class="nav__title">Psicólogo</h2>
+  
+        <ul class="nav__ul">
+          <li>
+            <a href="https://www.flaticon.es/iconos-gratis/correo-electronico" title="correo electrónico iconos">Correo: mavargas132@gmail.com</a>
+          </li>
+  
+          <li>
+            <a href="https://www.flaticon.es/iconos-gratis/whatsapp" title="whatsapp iconos">WhatsApp: +52 418 112 5439</a>
+          </li>
+            
+          <li>
+            <a href="#">Zona Psicologíca</a>
+          </li>
+        </ul>
+      </li>
+      
+      <li class="nav__item">
+        <h2 class="nav__title">Diseñador gráfico</h2>
+        
+        <ul class="nav__ul">
+          <li>
+            <a href="https://www.flaticon.es/iconos-gratis/correo-electronico" title="correo electrónico iconos">Correo: diegorangel189@gmail.com</a>
+          </li>
+          
+          <li>
+            <a href="https://www.flaticon.es/iconos-gratis/whatsapp" title="whatsapp iconos">WhatsApp: +52 418 144 6128</a>
+          </li>
+          
+          <li>
+            <a href="#">Diseñador</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    
+    <div class="legal">
+      <p>&copy; 2022 Casa Iscali. Todos los derechos reservados.</p>
+      
+      <div class="legal__links">
+        <span>Made with <span class="heart">♥</span> Python from Django, Boostrap 5</span>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>

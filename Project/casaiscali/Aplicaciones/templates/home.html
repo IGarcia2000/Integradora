@@ -4,5 +4,65 @@
 {% block title %}Home{% endblock %}
 
 {% block content %}
-  
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active bg-dark" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" class="bg-dark" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" class="bg-dark" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" class="bg-dark" aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" class="bg-dark" aria-label="Slide 5"></button>
+          </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="/static/img/carmas.jpg" class="d-block w-100" height="450" alt="Masajes holistic">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 class="text-dark">Masajes terapéuticos</h5>
+                    <p class="text-dark">Técnicas de masaje que se utilizan en el tratamiento de trastornos neuromusculares y musculoesqueléticos</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="/static/img/masaje-reductivo.jpg" class="d-block w-100" height="450" alt="Masaje reductivo chino">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 class="text-dark">Masajes reductivos chinos</h5>
+                    <p class="text-dark">El masaje reductivo chino consiste en un reajuste interno del equilibrio de las distintas funciones del organismo.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="/static/img/facemassage.jpg" class="d-block w-100" height="450" alt="Masaje facial">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 class="text-dark">Masajes faciales</h5>
+                    <p class="text-dark">El masaje facial relaja los músculos de la cara, mejora la circulación de la zona, reduce las líneas de expresión.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="/static/img/sesionpsi.jpg" class="d-block w-100" height="450" alt="Masaje facial">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 class="text-ligth">Sesiones Psicologicas</h5>
+                    <p class="text-ligth">El masaje facial relaja los músculos de la cara, mejora la circulación de la zona, reduce las líneas de expresión.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="/static/img/design.jpg" class="d-block w-100" height="450" alt="Masaje facial">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 class="text-ligth">Diseños digitales</h5>
+                    <p class="text-ligth">Creación de diseños digitales simples, creativos, estéticos y manejo de difrentes herramientas y softwares de diseño.</p>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <hr class="mt-20 mb-20">
+
+    <h2 >¿Quienes somos?</h2>
+    <p>Casa Iscali es una empresa independiente que ofrece servicios variados a partir de ciertas necesecidades 
+        se busca 
+    </p>
 {% endblock %}

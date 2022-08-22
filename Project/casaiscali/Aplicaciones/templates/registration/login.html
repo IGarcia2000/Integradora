@@ -4,10 +4,10 @@
 
 {% block content %}
 
-    <div class="container-fluid col-xl-4 col-lg-5 col-md-7 col-sm-9 pt-4">
-        <div class="form-control justify-content-center">
+    <div class="container-fluid col-xl-4 col-lg-5 col-md-7 col-sm-9 pt-4 login">
+        <div class="form-control justify-content-center aux">
                 <div class="form-group text-center">
-                    <h2 class="text-center">Iniciar Sesion</h2>
+                    <h2 class="text-center title-csst">Iniciar Sesion</h2>
                 </div>
                 <hr>
                 <div class="form-group text-center py-2">
@@ -15,7 +15,7 @@
                 </div>
                 <hr>
                 <div class="text-center form-group">
-                    <form class="form-group" method="post">
+                    <form class="form-group formulariol" method="post">
                         {% csrf_token %}   
                         <div class="mb-3 row ms-2">
                             <label for="staticEmail" class="col-sm-2 col-form-label">Usuario</label>
