@@ -1,0 +1,12 @@
+/* Algo extraño sobre las fuentes xd */ 
+@font-face {
+    font-family: generaltext;
+    src: url('../fonts/SourceSansPro-Regular.ttf');
+}
+
+@font-face {
+    font-family: titles;
+    src: url('../fonts/PlayfairDisplay-Italic.ttf');
+}
+
+/* Empieza el CSS de todas las vistas de productos */ 

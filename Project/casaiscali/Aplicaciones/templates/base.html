@@ -15,7 +15,9 @@
   <title>{% block title %} Django Auth Tutorial {% endblock %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{% static 'css/navbar.css' %}">
-  <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="{% static 'css/home.css' %}">
+  <link rel="stylesheet" href="{% static 'css/css/all.css'%}">
+  
 </head>
 <body>
   <main>
@@ -24,7 +26,7 @@
           <a class="navbar-brand">
             <img src="/static/img/logom.png" class="img-fluid rounded-circle" width="45" height="45" alt="">
           </a>
-          <a class="navbar-brand" href="">Casa Iscali</a>
+          <a class="navbar-brand" href="{% url 'home' %}">Casa Iscali</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon bg-ligth"></span>
           </button>
@@ -37,16 +39,16 @@
                 <a class="nav-link active" href="{% url 'eventos' %}">Eventos</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" href="#">Productos</a>
+                <a class="nav-link active" href="{% url 'productos' %}">Productos</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link active" href="{% url 'servicios' %}">Servicios</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" href="#">Zona Psicologica</a>
+                <a class="nav-link active" href="{% url 'zpsicologica' %}">Zona Psicologica</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" href="#">Diseñador</a>
+                <a class="nav-link active" href="{% url 'designer' %}">Diseñador</a>
               </li>
               <ul class="navbar-nav">
                 <li class="nav-item ">
@@ -115,11 +117,11 @@
         
         <ul class="nav__ul nav__ul--extra">
           <li>
-            <a href="https://www.flaticon.es/iconos-gratis/correo-electronico" title="correo electrónico iconos">Correo: lupitavargas112@gmail.com</a>
+            <span><i class="fa-solid fa-envelope"></i>  lupitavargas112@gmail.com</span>
           </li>
           
           <li>
-            <a href="https://www.flaticon.es/iconos-gratis/whatsapp" title="whatsapp iconos">WhatsApp: +52 418 181 2609</a>
+            <span><i class="fa-brands fa-whatsapp"></i> +52 418 181 2609</span>
           </li>
           
           <li>
@@ -135,7 +137,7 @@
           </li>
           
           <li>
-            <a href="#">Eventos</a>
+            <a href="{% url 'eventos' %}">Eventos</a>
           </li>
         </ul>
       </li>
@@ -145,15 +147,15 @@
   
         <ul class="nav__ul">
           <li>
-            <a href="https://www.flaticon.es/iconos-gratis/correo-electronico" title="correo electrónico iconos">Correo: mavargas132@gmail.com</a>
+            <span><i class="fa-solid fa-envelope"></i>  mavargas132@gmail.com</span>
           </li>
   
           <li>
-            <a href="https://www.flaticon.es/iconos-gratis/whatsapp" title="whatsapp iconos">WhatsApp: +52 418 112 5439</a>
+            <span><i class="fa-brands fa-whatsapp"></i> +52 418 112 5439</span>
           </li>
             
           <li>
-            <a href="#">Zona Psicologíca</a>
+            <span><a href="{% url 'zpsicologica' %}">Zona Psicologíca</a></span>
           </li>
         </ul>
       </li>
@@ -163,15 +165,13 @@
         
         <ul class="nav__ul">
           <li>
-            <a href="https://www.flaticon.es/iconos-gratis/correo-electronico" title="correo electrónico iconos">Correo: diegorangel189@gmail.com</a>
+            <span><i class="fa-solid fa-envelope"></i>  diegorangel189@gmail.com</span>
           </li>
-          
           <li>
-            <a href="https://www.flaticon.es/iconos-gratis/whatsapp" title="whatsapp iconos">WhatsApp: +52 418 144 6128</a>
+            <span> <i class="fa-brands fa-whatsapp"></i>  +52 418 144 6128</span>
           </li>
-          
           <li>
-            <a href="#">Diseñador</a>
+            <a href="{% url 'designer' %}"><span>Diseñador</span></a>
           </li>
         </ul>
       </li>

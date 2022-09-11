@@ -29,41 +29,35 @@ nav.navbar div.collapse li.nav-item{
     font-size: 18px;
 }
 
-.nav-item{
-    color: black;
-}
+.nav-item{  color: black; }
 
 button.boton {
-    background-color: #ff1493;
-    border-color: #ff1493;
+  background-color: #ff1493;
+  border-color: #ff1493;
 }
 
-p.link-boton {
-    font-size: 10px;
+#title-csst {
+  font-family: titles;
+  font-size: 33px;
 }
 
-li.mensaje {
-    color: black;
-}
+p.link-boton {  font-size: 10px;  color: #00003b;}
 
-div.cs {
-    font-family: 'Times New Roman', Times, serif; 
-}
+li.mensaje {  color: black; }
 
-div.login {
-    font-family: 'Times New Roman', Times, serif; 
-}
+div.aux { background: linear-gradient(15deg,  #fd81c3, #dcdcdc ); }
 
-div.aux {
-    background: linear-gradient(15deg,  #fd81c3, #dcdcdc );
-}
+form.formulariol {  font-size: 16px;  }
 
-h2.title-csst {
-    font-size: 33px;
-}
+#text-label { font-family: generaltext; }
 
-form.formulariol {
-    font-size: 16px;
+div.request-sg {
+  color: #202020;
+  font-family: generaltext;
+  font-size: 12px;
+  padding-left: 5px;
+  padding: 0px;
+  border: 0px;
 }
 
 /* Aqui empieza la zona de las tarjetas para mostrar los servicios de Casa Iscali */ 
@@ -78,9 +72,7 @@ form.formulariol {
     font-size: 35px;
 }
 
-#servicet {
-    font-family: titles;
-}
+#servicet { font-family: titles;  }
 
 .master {
     align-content: center;
@@ -91,7 +83,8 @@ form.formulariol {
 	box-shadow: 0 15px 30px 1px rgba(128, 128, 128, 0.31);
 	background:  linear-gradient( 135deg, #ff62ef 10%, #DFC2F2 100%);
 	border-radius: 5px;
-    padding-top: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 	overflow: hidden; 
 }
 
@@ -116,6 +109,7 @@ form.formulariol {
 .product-image {
 	transition: all 0.3s ease-out;
 	display: inline-block;
+  padding-bottom: 5px;
 	position: relative;
 	overflow: hidden;
 	height: 100%;
@@ -144,7 +138,7 @@ form.formulariol {
 }
 
 .info h2 {text-align: center}
-.product-image:hover .info{transform: translateX(0);}
+.product-image:hover .info{transform: translateX(0); }
 
 .info ul li{transition: 0.3s ease;}
 .info ul li:hover{transform: translateX(50px) scale(1.3);}
@@ -165,9 +159,7 @@ footer {
     margin-top: 10px;
 }
 
-*, *:before, *:after {
-    box-sizing: border-box;
-}
+*, *:before, *:after {  box-sizing: border-box; }
   
   
   .footer {
@@ -179,9 +171,7 @@ footer {
     border-top: 1px solid #e5e5e5;
   }
   
-  .footer > * {
-    flex:  1 100%;
-  }
+  .footer > * { flex:  1 100%;  }
   
   .footer__addr {
     margin-right: 1.25em;
@@ -239,13 +229,9 @@ footer {
     font-family: generaltext;
   }
   
-  .footer li {
-    line-height: 2em;
-  }
+  .footer li {  line-height: 2em;  }
   
-  .footer a {
-    text-decoration: none;
-  }
+  .footer a { text-decoration: none;  }
   
   .footer__nav {
     display: flex;
@@ -258,13 +244,9 @@ footer {
     font-family: general-text;
   }
   
-  .nav__ul a {
-    color: #999;
-  }
+  .nav__ul a {  color: #999;  }
 
-  .nav__ul li {
-    font-family: generaltext;
-  }
+  .nav__ul li { font-family: generaltext; }
   
   .nav__ul--extra {
     column-count: 2;
@@ -283,9 +265,7 @@ footer {
     align-items: center;
   }
   
-  .heart {
-    color: #2f2f2f;
-  }
+  .heart {  color: #2f2f2f; }
   
   @media screen and (min-width: 24.375em) {
     .legal .legal__links {
@@ -310,3 +290,49 @@ footer {
       flex: 2 0px;
     }
   }
+
+
+/* Inicia CSS de password_reset */
+input.boton {
+  color: #ffffff;
+  background-color: #ff1493;
+  border-color: #ff1493;
+}
+
+input.boton:hover {
+  color: #ffffff;
+  background-color: #008006;
+  border-color: #008006;
+}
+
+div.pro-con {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 5px;
+}
+
+div.pro-card {
+  background: linear-gradient(15deg,  #fd81c3, #dcdcdc );
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#pro-title {
+  font-family: titles;
+  font-size: 40px;
+}
+
+.pro-text { font-family: general-text;  }
+
+ul.lipro-text { 
+  font-family: general-text;
+  padding-left: 20px;
+  margin-left: 15px; 
+}
+
+#tt { 
+  font-family: titles; 
+  font-size: 25px;
+}
+
+p.link-boton-pp {  font-size: 15px;  color: #00003b;}

@@ -6,3 +6,9 @@ def servicios(request):
 
 def eventos(request):
     return render(request, "infogen/eventos.html")
+
+def zpsico(request):
+    return render(request, "infogen/zpsicologica.html")
+
+def zgrafica(request):
+    return render(request, "infogen/zdgrafico.html")

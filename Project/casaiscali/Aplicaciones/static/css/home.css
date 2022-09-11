@@ -1,0 +1,126 @@
+/* Algo extraño sobre las fuentes xd */ 
+@font-face {
+    font-family: generaltext;
+    src: url('../fonts/SourceSansPro-Regular.ttf');
+}
+
+@font-face {
+    font-family: titles;
+    src: url('../fonts/PlayfairDisplay-Italic.ttf');
+}
+
+/*Empieza el CSS del home */
+#eve-title {
+    font-family: titles;
+    padding: 10px;
+}
+
+#eve-text {
+    font-family: generaltext;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#hr-home {
+    background: linear-gradient(15deg, 	#ff1493, #dcdcdc);
+    height: 10px;
+}
+
+#hr-home2 {
+    background: linear-gradient(15deg, #dcdcdc,#ff1493);
+    height: 10px;
+}
+
+#home-title {
+    font-family: titles;
+    font-size: 40px;
+}
+
+#text-des { 
+    font-family: generaltext;
+    font-size: 15px;
+    padding: 10px;
+}
+
+#home-qsomos {
+    border-radius: 5px;
+	padding: 30px;
+    padding-right: 200px;
+    justify-content: center;
+    float: left;
+    position: relative;
+    text-align: left;
+}
+
+#home-objective {
+    border-radius: 5px;
+	padding: 30px;
+    padding-left: 200px;
+    justify-content: center;
+    float: right;
+    position: relative;
+    text-align: right;
+}
+
+#perfil-tp {
+    background: linear-gradient(115deg, #d11579, #dcdcdc);
+    border-radius: 10px;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 800px;
+    border-style: solid;
+}
+
+#perfil-ps {
+    background: linear-gradient(115deg, #154be2, #dcdcdc);
+    border-radius: 10px;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 800px;
+    border-style: solid;
+}
+
+#perfil-dg {
+    background: linear-gradient(115deg, #d85f0e, #dcdcdc);
+    border-radius: 10px;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 800px;
+    border-style: solid;
+}
+
+#info-perfiles {
+    font-family: generaltext;
+    text-align: justify;
+}
+
+div.image-perfiles {    padding-bottom: 20px;   }
+
+#img-perfiles {
+    border-style: solid;
+    color: white;
+    border-width: 10px;
+}
+
+#perfil-sep {
+    background: black;
+    height: 5px;
+}
+
+div.social-media { text-align: left;   }
+
+/* Aqui debe empezar el CSS de Zona Psicologica */
+
+/* Aqui debe empezar el CSS de Zona de Diseñador Grafico */
