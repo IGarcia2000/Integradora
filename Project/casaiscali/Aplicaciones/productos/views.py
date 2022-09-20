@@ -7,5 +7,5 @@ from .models import Producto
 #Aqui se van a listar los producto registrados
 def productos(request):
     pListados = Producto.objects.all()
-    return render(request, "productos/productos.html")
+    return render(request, "productos/productos.html", {"products" : pListados})
 
